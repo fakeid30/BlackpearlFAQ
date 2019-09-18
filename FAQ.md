@@ -1,0 +1,2 @@
+## What is Blackpearl?
+Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like Shop and VPN. We also give away various accounts on a regular interval.
