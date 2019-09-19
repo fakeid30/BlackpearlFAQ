@@ -128,7 +128,7 @@ The minimum donation amount is 5$. This can be done via [PayPal](https://blackpe
 **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
 ### How to add tags in post?
-While creating a thread you can add comma separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the [![Tags Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png =50x50)] under the thread's title and add/edit comma separated tags.
+While creating a thread you can add comma separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma separated tags.
 
 ### How to sell items in shop??
 
