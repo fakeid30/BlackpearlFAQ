@@ -73,7 +73,7 @@ You can earn pearls in 3 ways:
   </tr>  
 </table>
 
-Please note that - denotes range. You can get X to Y pearl depending on your post quality. Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
+Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
 ### What are usergroup and their privileges?
 
@@ -113,7 +113,11 @@ If you would like to access these sections you have contribute on forum to get P
 ### How to check how many pearls I have? Who is the richest user?
 [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who is the richest user and all the pearls you won/spend.
 
+### I just created a thread/post but can't see it posted.
+If you are a Registered user or lower anything you post will be awaiting for approval from a Moderator. Once approved the post will become available on the forum.
+
 ### How long does it take to have a post approved on the forum?
+There isn't a specific time range for a post to be approved. Posts will be approved once a Moderator is available and goes through the posts needing approval. Usually posts don't take more than 24 hours to be approved.
 
 ### How does one add a picture to a post?
 
@@ -124,6 +128,7 @@ The minimum donation amount is 5$. This can be done via [PayPal](https://blackpe
 **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
 ### How to add tags in post?
+While creating a thread you can add comma separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the ![Tags Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png =50x50) and add/edid comma separated tags.
 
 ### How to sell items in shop??
 
