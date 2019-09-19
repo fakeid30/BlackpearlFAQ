@@ -1,6 +1,6 @@
 ### What is Blackpearl?
 
-Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like Shop and VPN. We also give away various accounts on a regular interval.
+Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like a Shop and VPN.. We also give away various accounts on a regular interval.
 
 ### What is pearl?
 
@@ -10,7 +10,7 @@ Pearl is the currency we use to facilitate transaction in our forum. There are v
 
 You can earn pearls in 3 ways:
 1) Fill user request from various subsection.
-2) Sell something in shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/)
+2) Sell something in shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
 3) Post items in the forum, note that you can not share copies from other froum. You must mirror it yourself and share it. The reward system is given below:
 ---
 - 4K Media	5-7
@@ -72,6 +72,8 @@ The current system doesn't informs the poster about their post getting rejected,
 ### How to get/earn pearls?
 
 ### How much donation is required to get the donator rank?
+
+The minimum donation amount is 5$.
 
 ### How to add tags in post?
 
