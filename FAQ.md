@@ -10,17 +10,68 @@ You can earn pearls in 3 ways:
 1) Fill user request from various subsection.
 2) Sell something in shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
 3) Post items in the forum, note that you can not share copies from other froum. You must mirror it yourself and share it. The reward system is given below:
-- 4K Media	5-7
-- Discography	5-7
-- Tutorials	5-7
-- Packs	5-7
-- Games	2-4
-- Softwares	2-4
-- Comics	2-4
-- Ebooks	2-4
-- Audio	2-4
-- Video Distribution	2-4
-- Other Category	2-4
+<table>
+  <tr>
+    <th>Name of the section</th>
+    <th>Minimum Pearls payout</th>
+    <th>Maximum Pearls Payout</th>
+  </tr>
+  <tr>
+    <td>4K Media</td>
+    <td>5</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Discography</td>
+    <td>5</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Tutorials</td>
+    <td>5</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Packs</td>
+    <td>5</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Games</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Softwares</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>  
+  <tr>
+    <td>Comics</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Ebooks</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Audio</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Video Distribution</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Other Category</td>
+    <td>2</td>
+    <td>4</td>
+  </tr>  
+</table>
 
 Please note that - denotes range. You can get X to Y pearl depending on your post quality. Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
@@ -69,6 +120,7 @@ If you would like to access these sections you have contribute on forum to get P
 ### How much donation is required to get the donator rank?
 The minimum donation amount is 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
 `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`
+
 **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
 ### How to add tags in post?
@@ -76,4 +128,4 @@ The minimum donation amount is 5$. This can be done via [PayPal](https://blackpe
 ### How to sell items in shop??
 
 ### How to remove my own post from the forum? I can't see any option
-First you need to click on the report button, this can be find at the bottom of the post, after you need to give the report reason and then click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait the staff process your request.
+First you need to click on the report button, this can be find at the bottom of the post, after you need to give the report reason and then click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
