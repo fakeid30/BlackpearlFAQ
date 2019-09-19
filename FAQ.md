@@ -1,13 +1,33 @@
-## What is Blackpearl?
+### What is Blackpearl?
+
 Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like Shop and VPN. We also give away various accounts on a regular interval.
 
 ### What is pearl?
 
+Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearl
 
 ### How to earn pearls?
 
+You can earn pearls in 3 ways:
+1) Fill user request from various subsection.
+2) Sell something in shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/)
+3) Post items in the forum, note that you can not share copies from other froum. You must mirror it yourself and share it. The reward system is given below:
+---
+- 4K Media	5-7
+- Discography	5-7
+- Tutorials	5-7
+- Packs	5-7
+- Games	2-4
+- Softwares	2-4
+- Comics	2-4
+- Ebooks	2-4
+- Audio	2-4
+- Video Distribution	2-4
+- Other Category	2-4
+---
+Please note that - denotes range. You can get X to Y pearl depending on your post quality. Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
-### What are userclasses and their privileges?
+### What are usergroup and their privileges?
 
 
 ### How to get promoted?
