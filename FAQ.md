@@ -31,7 +31,7 @@ Please note that - denotes range. You can get X to Y pearl depending on your pos
 
 
 ### How to get yourself banned?
-If you break any of this [rules](https://blackpearl.biz/rules/)
+This only happens if you break any of the [forum rules](https://blackpearl.biz/rules/)
 
 ### Alright, so you just joined Blackpearl! What to do now?
 First of all, read [RULES](https://blackpearl.biz/rules/) and FAQ.
