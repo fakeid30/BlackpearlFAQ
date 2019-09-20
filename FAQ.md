@@ -140,8 +140,8 @@ While creating a thread you can add comma separated tags in the Tags text box un
 ### How to remove my own post from the forum? I can't see any option
 First you need to click on the report button, this can be find at the bottom of the post, after you need to give the report reason and then click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
 
-### What filehosters the forum accept?
-The only downloadable sources allowed are Direct Download Links (DDL). Any file host other than the one's mentions below can't be included as a mirror. The accepted file hosts are:
+### What file hosters does the forum accept?
+The only downloadable sources allowed are Direct Download Links (DDL). A main file hoster is required and any other file hoster can be added as a mirror. The main accepted file hosts are:
 * [Google Drive](https://drive.google.com/) (Recommended)
 * [MEGA](https://mega.nz/)
 * [OneDrive](https://onedrive.live.com/)
