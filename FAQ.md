@@ -90,6 +90,7 @@ Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
 ### What to write for your introduction?
 Don't give away personal info and write about your interests, it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
+You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognisable, or have been in some other reputed forums you can mention all that.
 This was supposed to filter out the trolls, but, honestly if you write something good people would be happy and friendly with you!
 
 ### What to post in the 'Pearls-Only' section?
@@ -103,13 +104,15 @@ You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 It's most probably in the Approval Queue or already deleted due to breaking rules or improper format/missing stuff.
 The current system does not inform the poster about their post getting rejected. If you post something worthless we won't even inform you in PM.
 
-### Why like button is not visible to me? Or There is no like button on any post
+### Why is the like button not visible to me?
+If you are a new user you need to post an introduction to be able to get access to rest ofthe forum, you can view posts but cannot react to them unless you post your intro.
 
 ### What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?
 This happens because you are under "Registered" or "Boomers" usergroup and can not give likes or post replies in other members threads;
 If you would like to access these sections you have contribute on forum to get Pirate Tag, Pirate group can be purchased from [shop](https://blackpearl.biz/shop/) with 75 pearls.
 
 ### I purchased BlackPearl Gsuite from shop. Can some one help me how to use it?
+You will soon receive credentials(mail and temporary password) for the GSuite account in your PM from Admin. GSuite is like any other edu/gmail account, with unlimited storage and capability of making team drives! All you have to do is to login to Google and change password.
 
 ### How to check how many pearls I have? Who is the richest user?
 [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the richest user is, and all the pearls you won/spent.
@@ -126,6 +129,8 @@ You can do this by clicking on the [little image icon](https://uploaddeimagens.c
 
 For that you need to use imagehoster for that we recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, since it allows you to reach the orginal image link. Example: `https://hoster.com/image.png`.
 
+In case you prefer to use Imgur, then instead of copying the default link that they provide, go over the image and press the three dot button, from there select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that paste the link to your post, it won't show image in edit mode, if you want to resize then just press the preview button, the image will be loaded in both preview and edit mode.  
+
 ### How much donation is required to get the donator rank?
 The minimum donation amount is 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
 `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
@@ -136,6 +141,7 @@ The minimum donation amount is 5$. This can be done via [PayPal](https://blackpe
 While creating a thread you can add comma separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma separated tags.
 
 ### How to sell items in shop??
+You need to contact the admins and let them know what you want to sell, we'll help you make a post and set the price.
 
 ### How to remove my own post from the forum? I can't see any option
 First you need to click on the report button, this can be find at the bottom of the post. Then you need to give the report reason and click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
@@ -148,3 +154,13 @@ The only downloadable sources allowed are Direct Download Links (DDL). A main fi
 * [Dropbox](https://www.dropbox.com/)
 * [MediaFire](https://www.mediafire.com/)
 * [ZippyShare](https://zippyshare.com/)
+
+### How to share  download links?
+If you wish to share Google Drive or Mega link then put it inside `[DOWNCLOUD]` tag, Like this : 
+`[DOWNCLOUD]GDRIVE/MEGA LINK[/DOWNCLOUD] 
+What it does is shows it in a better way.
+
+If you wish to share a link inside Blackpearl GSuite organisation, then you MUST mention about it in the post, otherwise you'll be warned.
+Posting Gdrive links under any other organisation(i.e. edu) are not allowed.
+
+In case you want extra protection, you can use [Blackpearl's Link Protector](https://links.blackpearl.biz/)
