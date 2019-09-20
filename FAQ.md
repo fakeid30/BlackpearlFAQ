@@ -75,7 +75,7 @@ You can earn pearls in 3 ways:
 
 Please note that - denotes range. You can get X to Y pearl depending on your post quality. Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
-### What are usergroup and their privileges?
+### What are usergroups and their privileges?
 
 
 ### How to get promoted?
@@ -93,7 +93,8 @@ Don't give away personal info and write about your interests, it isn't required 
 This was supposed to filter out the trolls, but, honestly if you write something good people would be happy and friendly with you!
 
 ### What to post in the 'Pearls-Only' section?
-
+You can post only original upload/rare stuff. 
+You can hide the content with this tag `[pearl=0]your content[/pearl]`
 
 ### How to post and solve requests?
 
@@ -115,7 +116,11 @@ If you would like to access these sections you have contribute on forum to get P
 
 ### How long does it take to have a post approved on the forum?
 
-### How does one add a picture to a post?
+
+### How does one add a picture to a post? And what imagehosters I can use?
+You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post tollbar or using the hotkey `Ctrl+P`. If you are using [bbcode](https://www.phpbb.com/) you have to use `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
+
+For that you need to use imagehoster for that we recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, since it allows you to reach the orginal image link. Example: `https://hoster.com/image.png`.
 
 ### How much donation is required to get the donator rank?
 The minimum donation amount is 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
@@ -129,3 +134,12 @@ The minimum donation amount is 5$. This can be done via [PayPal](https://blackpe
 
 ### How to remove my own post from the forum? I can't see any option
 First you need to click on the report button, this can be find at the bottom of the post, after you need to give the report reason and then click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
+
+### What filehosters the forum accept?
+The only downloadable sources allowed are Direct Download Links (DDL). Any file host other than the one's mentions below can be included as a mirror. The accepted file hosts are:
+* [Google Drive](https://drive.google.com/) (Recommended)
+* [MEGA](https://mega.nz/)
+* [OneDrive](https://onedrive.live.com/)
+* [Dropbox](https://www.dropbox.com/)
+* [MediaFire](https://www.mediafire.com/)
+* [ZippyShare](https://zippyshare.com/)
