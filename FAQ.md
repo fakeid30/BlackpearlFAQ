@@ -1,15 +1,15 @@
 ### What is Blackpearl?
 
-Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like a Shop and VPN.. We also give away various accounts on a regular interval.
+Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
 ### What is pearl?
-Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearl
+Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearl.
 
 ### How to earn pearls?
 You can earn pearls in 3 ways:
-1) Fill user request from various subsection.
-2) Sell something in shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
-3) Post items in the forum, note that you can not share copies from other froum. You must mirror it yourself and share it. The reward system is given below:
+1) Fill user requests from various subsections.
+2) Sell something in the shop or provide a service. You can see [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
+3) Post items in the forum (Note: You can not share links from other forums). You must mirror it yourself and share it. The reward system is given below:
 <table>
   <tr>
     <th>Name of the section</th>
@@ -82,26 +82,26 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 
 ### How to get yourself banned?
-This only happens if you break any of the [forum rules](https://blackpearl.biz/rules/)
+This will only happen if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
 ### Alright, so you just joined Blackpearl! What to do now?
-First of all, read [RULES](https://blackpearl.biz/rules/) and FAQ.
-Then introduce yourself [over here](https://blackpearl.biz/intro/)
+First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
+Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
 ### What to write for your introduction?
-Don't give away personal info and write about your interests, it isn't required to be related to piracy. Like if you're interested in philosophy mention that and people with knowledge about it will react to your post.
+Don't give away personal info and write about your interests, it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
 This was supposed to filter out the trolls, but, honestly if you write something good people would be happy and friendly with you!
 
 ### What to post in the 'Pearls-Only' section?
 You can post only original upload/rare stuff. 
-You can hide the content with this tag `[pearl=0]your content[/pearl]`
+You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 
 ### How to post and solve requests?
 
 
 ### You just made a post but it's not showing up anymore, what's happening?
 It's most probably in the Approval Queue or already deleted due to breaking rules or improper format/missing stuff.
-The current system doesn't informs the poster about their post getting rejected, and if you post something worthless we won't even inform you in PM.
+The current system does not inform the poster about their post getting rejected. If you post something worthless we won't even inform you in PM.
 
 ### Why like button is not visible to me? Or There is no like button on any post
 
@@ -112,7 +112,7 @@ If you would like to access these sections you have contribute on forum to get P
 ### I purchased BlackPearl Gsuite from shop. Can some one help me how to use it?
 
 ### How to check how many pearls I have? Who is the richest user?
-[Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who is the richest user and all the pearls you won/spend.
+[Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the richest user is, and all the pearls you won/spent.
 
 ### I just created a thread/post but can't see it posted.
 If you are a Registered user or lower anything you post will be awaiting for approval from a Moderator. Once approved the post will become available on the forum.
@@ -128,7 +128,7 @@ For that you need to use imagehoster for that we recommend [ImgBB](https://imgbb
 
 ### How much donation is required to get the donator rank?
 The minimum donation amount is 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
-`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`
+`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
 
 **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
@@ -138,10 +138,10 @@ While creating a thread you can add comma separated tags in the Tags text box un
 ### How to sell items in shop??
 
 ### How to remove my own post from the forum? I can't see any option
-First you need to click on the report button, this can be find at the bottom of the post, after you need to give the report reason and then click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
+First you need to click on the report button, this can be find at the bottom of the post. Then you need to give the report reason and click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
 
-### What filehosters the forum accept?
-The only downloadable sources allowed are Direct Download Links (DDL). Any file host other than the one's mentions below can't be included as a mirror. The accepted file hosts are:
+### What file hosters does the forum accept?
+The only downloadable sources allowed are Direct Download Links (DDL). A main file hoster is required and any other file hoster can be added as a mirror. The main accepted file hosts are:
 * [Google Drive](https://drive.google.com/) (Recommended)
 * [MEGA](https://mega.nz/)
 * [OneDrive](https://onedrive.live.com/)
