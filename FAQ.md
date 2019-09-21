@@ -124,7 +124,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) - Only legends get to be one
 
-#Conclusion: Be active, sharing stuff, and getting recognized is the first steps to get user group promotion.
+#Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get user group promotion.
 
 ### Q: How to get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
@@ -199,6 +199,6 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 What it does is shows it in a better way.
 
 If you wish to share a link inside Blackpearl GSuite organization, then you MUST mention about it in the post; otherwise, you'll be warned.
-Posting Gdrive links under any other organization (i.e., edu) are not allowed.
+Posting Gdrive links under any other organization (i.e. edu) are not allowed.
 
 In case you want extra protection, you can use [Blackpearl's Link Protector](https://links.blackpearl.biz/)
