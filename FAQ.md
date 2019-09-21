@@ -160,7 +160,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) [RED] - The ones above all.
   >Privileges:
-  > - GOD
+  > - **GOD**
 
   >Promotion:
   > - Only legends get to be one. If you have exceptional technical capability knock [@ChoromPotro](https://t/me/chorompotro) on telegram to talk about this.
