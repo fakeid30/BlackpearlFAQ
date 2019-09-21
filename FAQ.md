@@ -79,19 +79,19 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 ![NOOB](https://i.imgur.com/FOsw2e9.png)  Demotion from REGISTERED usergroup
 *  **Description**
-  +  Can't React or Reply to any thread.
+  + Can't React or Reply to any thread.
 * **How to Get**
   + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
 
 ![REGISTERED](https://i.imgur.com/39fVOFD.png)  Default user group after registration 
 * **Description**
-  +  Can give 10 likes/day
+  + Can give 10 likes/day
 * **How to Get**
   + The default user group you get after registering to the forum
 
 ![BOOMER](https://i.imgur.com/bptMTla.png)  Advancement from REGISTERED usergroup
 * **Description**
-  +  No need of post approval
+  + No need of post approval
 * **How to Get**
   + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
 
@@ -107,15 +107,15 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Can check who has read/reading threads
   + some more small features.
 * **How to Get**
-  +   Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
+  + Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
 
 ![UPLOADER](https://i.imgur.com/mUN9Uvc.png)  Advanced and trusted PIRATE
 * **How to Get**
-  +   Chosen pirates by STAFF
+  + Chosen pirates by STAFF
 
 ![ENCODER](https://i.imgur.com/xUagkT8.png)   Verified encoder
 * **How to Get**
-  +   Showing proof to STAFF that you are really an encoder
+  + Showing proof to STAFF that you are really an encoder
 
 ![Donator](https://i.imgur.com/Tq51zem.png)   The kind-hearted one
 * **Description**
@@ -133,14 +133,14 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Can view banned username list + reason
   + Can check who has read & is viewing thread in every threads.
 * **How to Get**
-  +   Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
+  + Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
 
 ![STAFF](https://i.imgur.com/0oOZTiW.png)  The Law
 * **Description**
   + *MODERATOR:* They help maintain order in the forum
   + *ADMIN:* Highest authority
 * **How to Get**
-  +   People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested. 
+  + People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested. 
   
 ### Q: How to get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
@@ -159,7 +159,7 @@ The system was supposed to filter out the trolls, but, honestly, if you write so
 You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 
 ### Q: How to post and solve requests?
-**A**: Head ver to [request section] (https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
+**A**: Head over to [request section] (https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
 
 ### Q: I just made a post, but it's not showing up anymore, what's happening?
 **A**: It's most probably in the Approval Queue or already deleted due to breaking the rules or improper format/missing stuff.
@@ -185,7 +185,7 @@ If you would like to access these sections you have contribute on the forum to g
 **A**: There isn't a specific time range for a post to be approved. Posts will be approved once a Moderator is available and goes through the posts needing approval. Usually, posts don't take more than 24 hours to be approved.
 
 ### Q: How does one add a picture to a post? Also, what image hosters I can use?
-**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post tollbar or using the hotkey `Ctrl+P`. If you are using [bbcode](https://www.phpbb.com/), you have to use `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
+**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [bbcode](https://www.phpbb.com/), you have to use `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
 
 For that, you need to use image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other since it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
 
