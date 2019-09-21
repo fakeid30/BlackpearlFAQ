@@ -83,10 +83,10 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 - ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from REGISTERED usergroup
   >Privileges:
-  >>
+  >> No need of post approval
 - ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from REGISTERED usergroup
   >Disadvantages:
-  >>
+  >> No like button is visible to for any post. Need to upgrade to Boomer by having 10 pearl and 3 post. Any kind of posts count, not just thread.
 - ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
   >Privileges:
   >>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
@@ -120,9 +120,9 @@ Post quality is judged by the amount of effort you put into the creation of your
     
     **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - Hand-picked by the Staff themselves
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - Hand-picked by the Staff themselves.
 
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) - Only legends get to be one
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - Only legends get to be one. If you have exceptional technical capability knock [@ChoromPotro](https://t/me/chorompotro) on telegram to talk about this.
 
 Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get user group promotion.
 
