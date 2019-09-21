@@ -77,30 +77,54 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are user groups and their privileges?
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
-- ![REGISTERED](https://i.imgur.com/39fVOFD.png) - Default user group after registration 
-  >Privileges:
-  >>Can give 10 likes/day
+![NOOB](https://i.imgur.com/FOsw2e9.png) Demotion from REGISTERED usergroup
+* #### Description
+  +  Can't React or Reply to any thread.
+  
+![REGISTERED](https://i.imgur.com/39fVOFD.png) Default user group after registration 
+* #### Description
+  +  Can give 10 likes/day
+  
+![BOOMER](https://i.imgur.com/bptMTla.png) Advancement from REGISTERED usergroup
+* #### Description
+  +  No need of post approval
 
-- ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from REGISTERED usergroup
-  >Privileges:
-  >> No need of post approval
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from REGISTERED usergroup
-  >Disadvantages:
-  >> No like button is visible to for any post. Need to upgrade to Boomer by having 10 pearl and 3 post. Any kind of posts count, not just thread.
-- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
-  >Privileges:
-  >>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
-- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
+![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
+* #### Description
+  + Comment/like in 4k/Packs section
+  + Limit is increased to 50 likes per day
+  + Can bypass flood & spam protection
+  + Can use custom usertitle
+  + Can change names
+  + Upload attachments
+  + Use advance search
+  + Can check who has read/reading threads
+  + some more small features.
+  
+![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
  >
-- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
+![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
 >
-- ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
-  >Privileges:
-  >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam-check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
->
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
->
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - The ones above all
+![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
+* #### Description
+  + Donator Custom Donator Userbar
+  + Colored Username
+  + Can use custom title
+  + Can use private notepad
+  + Daily Likes increased to 50
+  + Can bypass flood check
+  + Can bypass spam-check
+  + Can delete own threads & Posts
+  + No edit time limit
+  + Can change username in every 24 hours
+  + Bypass approval of username change
+  + Can view banned username list + reason
+  + Can check who has read & is viewing thread in every threads.
+
+![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
+* #### Description
+  + **MODERATOR:** They help maintain order in the forum
+  + **ADMIN:** Highest authority
 
 ### Q: How to get promoted?
 **A**: Below are what it takes to get the promotion for each user group
