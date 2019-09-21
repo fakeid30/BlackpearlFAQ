@@ -262,7 +262,7 @@ For Imgur, instead of copying the default link that they provide, go over the im
 ### Q: My post got deleted after pending approval. Can I post it again?
 **A**: Yes. Feel free to post again, however, it would be useful if you knew the reason why your post got deleted in the first place. This will allow you to not make the same mistake.
 
-### Q: Which file hosters does the forum accept?
+### Q: Which file hosters are accepted on the forum?
 **A**: The only downloadable sources allowed are Direct Download Links (DDL). A main file hoster is required, and any other file hoster can be added as a mirror. The main accepted file hosts are:
 * [Google Drive](https://drive.google.com/) (Recommended)
 * [MEGA](https://mega.nz/)
