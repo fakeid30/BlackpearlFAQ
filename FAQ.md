@@ -120,7 +120,7 @@ Post quality is judged by the amount of effort you put into the creation of your
     
     **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (lower ranking of Staff member) - Hand-picked by the Staff themselves
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - Hand-picked by the Staff themselves
 
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) - Only legends get to be one
 
