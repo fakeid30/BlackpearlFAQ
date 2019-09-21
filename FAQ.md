@@ -77,25 +77,25 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are user groups and their privileges?
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
-![NOOB](https://i.imgur.com/FOsw2e9.png)  Demotion from REGISTERED usergroup
+![NOOB](https://i.imgur.com/FOsw2e9.png)
 *  **Description**
   + Can't React or Reply to any thread.
 * **How to Get**
   + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
 
-![REGISTERED](https://i.imgur.com/39fVOFD.png)  Default user group after registration 
+![REGISTERED](https://i.imgur.com/39fVOFD.png)
 * **Description**
   + Can give 10 likes/day
 * **How to Get**
   + The default user group you get after registering to the forum
 
-![BOOMER](https://i.imgur.com/bptMTla.png)  Advancement from REGISTERED usergroup
+![BOOMER](https://i.imgur.com/bptMTla.png)
 * **Description**
   + No need of post approval
 * **How to Get**
   + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
 
-![PIRATE](https://i.imgur.com/KB4eBa1.png)   Comrade in arms in this sea of piracy
+![PIRATE](https://i.imgur.com/KB4eBa1.png)
 * **Description**
   + Comment/like in 4k/Packs section
   + Limit is increased to 50 likes per day
@@ -109,15 +109,15 @@ Post quality is judged by the amount of effort you put into the creation of your
 * **How to Get**
   + Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
 
-![UPLOADER](https://i.imgur.com/mUN9Uvc.png)  Advanced and trusted PIRATE
+![UPLOADER](https://i.imgur.com/mUN9Uvc.png)
 * **How to Get**
   + Chosen pirates by STAFF
 
-![ENCODER](https://i.imgur.com/xUagkT8.png)   Verified encoder
+![ENCODER](https://i.imgur.com/xUagkT8.png)
 * **How to Get**
   + Showing proof to STAFF that you are really an encoder
 
-![Donator](https://i.imgur.com/Tq51zem.png)   The kind-hearted one
+![Donator](https://i.imgur.com/Tq51zem.png)
 * **Description**
   + Donator Custom Donator Userbar
   + Colored Username
@@ -135,7 +135,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 * **How to Get**
   + Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
 
-![STAFF](https://i.imgur.com/0oOZTiW.png)  The Law
+![STAFF](https://i.imgur.com/0oOZTiW.png)
 * **Description**
   + *MODERATOR:* They help maintain order in the forum
   + *ADMIN:* Highest authority
