@@ -1,6 +1,87 @@
 ### Q: What is Blackpearl?
 **A**: Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
+### Q: I just joined Blackpearl! What to do now?
+**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
+Then introduce yourself [over here](https://blackpearl.biz/intro/).
+
+### Q: What to write for my introduction?
+**A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
+You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
+The system was supposed to filter out the trolls, but, honestly, if you write something good, people would be happy and friendly with you!
+
+### Q: How to get myself banned?
+**A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
+
+### Q: What are user groups and their privileges?
+**A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
+
+![NOOB](https://i.imgur.com/FOsw2e9.png)
+* **Description**
+  + Can't React or Reply to any thread.
+* **How to Get**
+  + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
+
+![REGISTERED](https://i.imgur.com/39fVOFD.png)
+* **Description**
+  + Can give 10 likes/day
+  + Posts need approval from STAFF before showing on the Forum
+* **How to Get**
+  + The default user group you get after registering to the forum
+
+![BOOMER](https://i.imgur.com/bptMTla.png)
+* **Description**
+  + Posts don't need approval
+* **How to Get**
+  + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
+
+![PIRATE](https://i.imgur.com/KB4eBa1.png)
+* **Description**
+  + Comment/Like in 4k/Packs sections
+  + Limit is increased to 50 likes per day
+  + Can bypass flood & spam protection
+  + Can use custom usertitle
+  + Can change names
+  + Upload attachments
+  + Use advance search
+  + Can check who has read/reading threads
+  + some more small features.
+* **How to Get**
+  + Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
+
+![UPLOADER](https://i.imgur.com/mUN9Uvc.png)
+* **How to Get**
+  + Chosen pirates by STAFF
+
+![ENCODER](https://i.imgur.com/xUagkT8.png)
+* **How to Get**
+  + Showing proof to STAFF that you are really an encoder
+
+![Donator](https://i.imgur.com/Tq51zem.png)
+* **Description**
+  + Donator Custom Donator Userbar
+  + Colored Username
+  + Can use custom title
+  + Can use private notepad
+  + Daily Likes increased to 50
+  + Can bypass flood check
+  + Can bypass spam-check
+  + Can delete own threads & Posts
+  + No edit time limit
+  + Can change username in every 24 hours
+  + Bypass approval of username change
+  + Can view banned username list + reason
+  + Can check who has read & is viewing thread in every threads.
+* **How to Get**
+  + Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
+
+![STAFF](https://i.imgur.com/0oOZTiW.png)
+* **Description**
+  + *MODERATOR:* They help maintain order in the forum
+  + *ADMIN:* Highest authority
+* **How to Get**
+  + People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested. 
+
 ### Q: What is pearl?
 **A**: Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearls.
 
@@ -74,93 +155,12 @@
 
 Post quality is judged by the amount of effort you put into the creation of your thread. However, verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
-### Q: What are user groups and their privileges?
-**A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
-
-![NOOB](https://i.imgur.com/FOsw2e9.png)
-* **Description**
-  + Can't React or Reply to any thread.
-* **How to Get**
-  + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
-
-![REGISTERED](https://i.imgur.com/39fVOFD.png)
-* **Description**
-  + Can give 10 likes/day
-  + Posts need approval from STAFF before showing on the Forum
-* **How to Get**
-  + The default user group you get after registering to the forum
-
-![BOOMER](https://i.imgur.com/bptMTla.png)
-* **Description**
-  + Posts don't need approval
-* **How to Get**
-  + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
-
-![PIRATE](https://i.imgur.com/KB4eBa1.png)
-* **Description**
-  + Comment/Like in 4k/Packs sections
-  + Limit is increased to 50 likes per day
-  + Can bypass flood & spam protection
-  + Can use custom usertitle
-  + Can change names
-  + Upload attachments
-  + Use advance search
-  + Can check who has read/reading threads
-  + some more small features.
-* **How to Get**
-  + Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
-
-![UPLOADER](https://i.imgur.com/mUN9Uvc.png)
-* **How to Get**
-  + Chosen pirates by STAFF
-
-![ENCODER](https://i.imgur.com/xUagkT8.png)
-* **How to Get**
-  + Showing proof to STAFF that you are really an encoder
-
-![Donator](https://i.imgur.com/Tq51zem.png)
-* **Description**
-  + Donator Custom Donator Userbar
-  + Colored Username
-  + Can use custom title
-  + Can use private notepad
-  + Daily Likes increased to 50
-  + Can bypass flood check
-  + Can bypass spam-check
-  + Can delete own threads & Posts
-  + No edit time limit
-  + Can change username in every 24 hours
-  + Bypass approval of username change
-  + Can view banned username list + reason
-  + Can check who has read & is viewing thread in every threads.
-* **How to Get**
-  + Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
-
-![STAFF](https://i.imgur.com/0oOZTiW.png)
-* **Description**
-  + *MODERATOR:* They help maintain order in the forum
-  + *ADMIN:* Highest authority
-* **How to Get**
-  + People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested. 
-  
-### Q: How to get myself banned?
-**A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
-
-### Q: I just joined Blackpearl! What to do now?
-**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
-Then introduce yourself [over here](https://blackpearl.biz/intro/).
-
-### Q: What to write for my introduction?
-**A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
-You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
-The system was supposed to filter out the trolls, but, honestly, if you write something good, people would be happy and friendly with you!
-
 ### Q: What to post in the 'Pearls-Only' section?
 **A**: You can post only original upload/rare stuff. 
 You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 
 ### Q: How to post and solve requests?
-**A**: Head over to [request section] (https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
+**A**: Head over to [request section](https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
 
 ### Q: I just made a post, but it's not showing up anymore, what's happening?
 **A**: It's most probably in the Approval Queue or already deleted due to breaking the rules or improper format/missing stuff.
