@@ -183,6 +183,48 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 
 ### Q: How to remove my post from the forum? I can't see any option.
 **A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
+### Q: How to remove my post from the forum? I can't see any option.
+**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
+
+### Q: How to remove my own post from the forum? I can't see any option
+**A**: First you need to click on the report button, this can be find at the bottom of the post. Then you need to give the report reason and click on report. Or under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways you have to wait until the staff process your report.
+
+### Q:Approval applies to all sections?
+**A**: If you are have a BOOMER tag, then only Golden Guide section posts needs approval. But if you do not have a BOOMER Tag, then all your post need approval. 
+
+### Q:How can I change my user name?
+**A**: If you have a DONATOR Tag, then you can change your user name in every 24 hours. And If you do not have a DONATOR Tag, then you can change your user name only once in 30 days.
+
+### Q: Can we buy reaction score for pearls? If no, why not?
+**A**: No, you can not buy reaction score pearls. Because it will result in spamming in forum.
+
+### Q:Whom to contact for which issues?
+**A**: For any account related issues, Contact ADMINS (members whose user ID is in RED color)
+       For Post related issues, Conatct section Moderators.
+
+### Q:what about alternative accounts?
+**A**:No alternative accounts are allowed. If found any, both accounts will be banned.
+
+### Q: Posted in wrong section. What to do?
+**A**: Contact Section Modrators. Or you can also contact ADMINS. State your reasons and they will shift the post to appropriate section.
+
+### Q: Why is there no option to edit my post?
+**A**: If you do not have a pirate Tag, you can not edit your own posts.
+
+### Q: I want to suggest some improvements. Where to do that?
+**A**: Go to [this section](https://blackpearl.biz/forums/47/) and start a new thread and write youe suggestions.
+
+### Q: Can we buy more than 1 gsuite accounts?
+**A**: According to new rules, One member can only buy 1 Gsuite account.
+
+### Q:Can I donate pearls to some other members (my friends), so that they can buy something from shop.
+**A**: Members missued this feature. So from now on, if any member found to misuse this system, he and the other person, both will get banned. You can donate if you liked their work or post. but should not misutilise this feature. In case if you want to do so, First take permissions from ADMINS, state your reasons. If they allow, then do it.
+
+### Q:Can I have custom color of my user ID?
+**A**: Different color, represnts different groups. So You can not have custom color.
+
+### Q:My post got deleted after pending approval. Can I post it again?
+**A**: Yes. Feel free to post again. But it will be good if you know the reason why your post got deletd. So that you will not do the same mistake.
 
 ### Q: What file hosters does the forum accept?
 **A**: The only downloadable sources allowed are Direct Download Links (DDL). A main file hoster is required, and any other file hoster can be added as a mirror. The main accepted file hosts are:
