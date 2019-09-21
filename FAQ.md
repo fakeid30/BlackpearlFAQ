@@ -98,9 +98,9 @@ Post quality is judged by the amount of effort you put into the creation of your
   >Privileges:
   >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam-check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png)(MODERATOR) - The right hand of STAFF, helping to moderate the forum
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) - The ones above all
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - The ones above all
 
 ### Q: How to get promoted?
 **A**: Below are what it takes to get the promotion for each user group
