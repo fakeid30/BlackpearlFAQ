@@ -76,10 +76,50 @@ You can earn pearls in 3 ways:
 Post quality is judged by the amount of effort you put into the creation of your thread. But verbosity just for the sake of it is heavily discouraged and might make you re-edit your post.
 
 ### What are usergroups and their privileges?
+**REGISTERED** - Default usergroup after registration 
+>Privileges:
+>>Can give 10 likes/day
 
+**BOOMER** - Advancement from REGISTERED usergroup
+>Privileges:
+>>
+**NOOB** - Demotion from REGISTERED usergroup
+>Disadvantages:
+>>
+**PIRATE** - Comrade in arms in this sea of piracy
+>Privileges:
+>>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
+**UPLOADER** - Advanced and trusted PIRATE
+>
+**ENCODER** - Verified encoder
+>
+**DONATOR** - The kind-hearted one
+>Privileges:
+>>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
+>
+**MODERATOR** - The right hand of STAFF, helping moderating the forum
+>
+**STAFF** - The ones above all
 
 ### How to get promoted?
+**BOOMER** -  Get 10 pearls + 3 days of registration
 
+**NOOB** (demotion) - Liking too much stuff without contributing back to the forum
+
+**PIRATE** - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 100 Pearls (price may subject to change)
+
+**UPLOADER** - Getting recognition from STAFF
+
+**ENCODER** - Be a verified encoder
+
+**DONATOR** - Donate for the minimum amount of 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
+`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
+
+**MODERATOR** (lower ranking of STAFF) - Hand-picked by the Staff themselves
+
+**STAFF** - Only legends get to be one
+
+#Be active, sharing stuff and getting recognized is the first steps to get usergroup promotion.
 
 ### How to get yourself banned?
 This will only happen if you break any of the [forum rules](https://blackpearl.biz/rules/).
