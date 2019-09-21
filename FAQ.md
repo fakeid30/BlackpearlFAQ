@@ -78,19 +78,21 @@ Post quality is judged by the amount of effort you put into the creation of your
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
 ![NOOB](https://i.imgur.com/FOsw2e9.png) Demotion from REGISTERED usergroup
-* #### Description
+*  **Description**
   +  Can't React or Reply to any thread.
   
+
 ![REGISTERED](https://i.imgur.com/39fVOFD.png) Default user group after registration 
-* #### Description
+* **Description**
   +  Can give 10 likes/day
   
+
 ![BOOMER](https://i.imgur.com/bptMTla.png) Advancement from REGISTERED usergroup
-* #### Description
+* **Description**
   +  No need of post approval
 
 ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
-* #### Description
+* **Description**
   + Comment/like in 4k/Packs section
   + Limit is increased to 50 likes per day
   + Can bypass flood & spam protection
@@ -101,12 +103,13 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Can check who has read/reading threads
   + some more small features.
   
+
 ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
- >
+
 ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
->
+
 ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
-* #### Description
+* **Description**
   + Donator Custom Donator Userbar
   + Colored Username
   + Can use custom title
@@ -122,10 +125,10 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Can check who has read & is viewing thread in every threads.
 
 ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
-* #### Description
-  + **MODERATOR:** They help maintain order in the forum
-  + **ADMIN:** Highest authority
-
+* **Description**
+  + *MODERATOR:* They help maintain order in the forum
+  + *ADMIN:* Highest authority
+  
 ### Q: How to get promoted?
 **A**: Below are what it takes to get the promotion for each user group
 
