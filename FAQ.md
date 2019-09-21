@@ -1,6 +1,15 @@
 ### Q: What is Blackpearl?
 **A**: Blackpearl is much more than a forum. It's a complete platform to make friends and spend your time and get lost in whatever interest you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
+### Q: I just joined Blackpearl! What to do now?
+**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
+Then introduce yourself [over here](https://blackpearl.biz/intro/).
+
+### Q: What to write for my introduction?
+**A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
+You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
+The system was supposed to filter out the trolls, but, honestly, if you write something good, people would be happy and friendly with you!
+
 ### Q: What is pearl?
 **A**: Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearls.
 
@@ -170,22 +179,12 @@ Conclusion: Being active, sharing stuff, and getting recognized is the first ste
 ### Q: How to get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
-### Q: I just joined Blackpearl! What to do now?
-**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
-Then introduce yourself [over here](https://blackpearl.biz/intro/).
-
-### Q: What to write for my introduction?
-**A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
-You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
-The system was supposed to filter out the trolls, but, honestly, if you write something good, people would be happy and friendly with you!
-
 ### Q: What to post in the 'Pearls-Only' section?
 **A**: You can post only original upload/rare stuff. 
-You can hide the content with this tag `[pearl=0]your content[/pearl]`.
+You can hide the content with this tag `[pearl=0]your content[/pearl]` the number denoting your desired pearl. 
 
 ### Q: How to post and solve requests?
-**A**: Head ver to [request section] (https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
-
+Head over to [request section](https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
 ### Q: I just made a post, but it's not showing up anymore, what's happening?
 **A**: It's most probably in the Approval Queue or already deleted due to breaking the rules or improper format/missing stuff.
 The current system does not inform the poster about their post getting rejected. If you post something worthless, we won't even inform you in PM.
