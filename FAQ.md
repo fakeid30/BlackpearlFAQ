@@ -77,37 +77,62 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are user groups and their privileges?
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
-- ![REGISTERED](https://i.imgur.com/39fVOFD.png) - Default user group after registration 
-  >Privileges:
-  >>Can give 10 likes/day
-
-- ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from REGISTERED usergroup
-  >Privileges:
-  >> No need of post approval
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from REGISTERED usergroup
+- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from REGISTERED usergroup.
   >Disadvantages:
-  >> No like button is visible to for any post. Need to upgrade to Boomer by having 10 pearl and 3 post. Any kind of posts count, not just thread.
-- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
+  > - No like button is visible to for any post. Need to upgrade to Boomer by having 10 pearl and 3 post. Any kind of posts count, not just thread.
+
+- ![REGISTERED](https://i.imgur.com/39fVOFD.png) - Default user group after registration.
   >Privileges:
-  >>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
-- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
+  > - Can give 10 likes/day
+  >Disadvantages:
+  > - All of your threads need approval
+  
+- ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from REGISTERED usergroup.
+  >Privileges:
+  > - Same privileges as Registered group
+  > - No need of post approval
+
+- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy.
+  >Privileges:
+  > - Comment/like in 4k/Packs section 
+  > - Limit is increased to 50 likes per day
+  > - Can bypass flood & spam protection
+  > - Can use custom usertitle
+  > - Can change names
+  > - Upload attachments
+  > - Use advance search
+  > - Can check who has read/reading threads
+  > - And some more small features
+- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE.
  >
-- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
+- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder.
 >
-- ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
+- ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one.
   >Privileges:
-  >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam-check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
+  > - Donator Custom Donator Userbar
+  > - Colored Username 
+  > - Can use custom title 
+  > - Can use private notepad 
+  > - Daily Likes increased to 50 
+  > - Can bypass flood check 
+  > - Can bypass spam-check 
+  > - Can delete own threads & Posts 
+  > - No edit time limit 
+  > - Can change username in every 24 hours 
+  > - Bypass approval of username change 
+  > - Can view banned username list + reason 
+  > - Can check who has read & is viewing thread in every threads
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum.
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - The ones above all
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - The ones above all.
 
 ### Q: How to get promoted?
 **A**: Below are what it takes to get the promotion for each user group
 
-- ![BOOMER](https://i.imgur.com/bptMTla.png) -  Get 10 pearls + 3 days of registration
-
 - ![NOOB](https://i.imgur.com/FOsw2e9.png) (demotion) - Liking too much stuff without contributing back to the forum
+
+- ![BOOMER](https://i.imgur.com/bptMTla.png) - Get 10 pearls + 3 days of registration
 
 - ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
 
@@ -150,17 +175,17 @@ You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 The current system does not inform the poster about their post getting rejected. If you post something worthless, we won't even inform you in PM.
 
 ### Q: Why is the like button not visible to me?
-**A**: If you are a new user you need to post an introduction to be able to get access to rest of the forum, you can view posts but cannot react to them unless you post your intro.
+**A**: If you are a new user you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to rest of the forum, you can view posts but cannot react to them unless you post your intro.
 
 ### Q: What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?
 **A**: This happens because you are under "Registered" or "Boomers" user group and can not give likes or post replies in other members threads;
 If you would like to access these sections you have contribute on the forum to get Pirate Tag; Pirate group can be purchased from [shop](https://blackpearl.biz/shop/) with 75 pearls.
 
 ### Q: I purchased BlackPearl Gsuite from the shop. Can someone help me how to use it?
-**A**: You will soon receive credentials(mail and temporary password) for the GSuite account in your PM from Admin. GSuite is like any other edu/Gmail account, with unlimited storage and capability of making team drives! All you have to do is to log in to Google and change password.
+**A**: You will soon receive credentials (mail and temporary password) for the GSuite account in your PM from Admin. GSuite is like any other edu/Gmail account, with unlimited storage and capability of making team drives! All you have to do is to log in to Google and change password.
 
 ### Q: How to check how many pearls I have? Who is the wealthiest user?
-**A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the richest user is, and all the pearls you won/spent.
+**A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the wealthiest user is, and all the pearls you won/spent.
 
 ### Q: I just created a thread/post but can't see it posted.
 **A**: If you are a registered user or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
@@ -185,7 +210,7 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 **A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
 
 ### Q: Approval applies to all sections?
-**A**: If you have a BOOMER tag, then only Golden Guide section posts need approval. However, if you do not have a BOOMER Tag, then all your post need approval. 
+**A**: If you have a BOOMER tag, then only Golden Guide section posts need approval. However, if you don't have a BOOMER Tag, then all your post need approval. 
 
 ### Q: How can I change my user name?
 **A**: If you have a DONATOR Tag, then you can change your user name in every 24 hours. Moreover, If you do not have a DONATOR Tag, then you can change your user name only once in 30 days.
@@ -201,10 +226,10 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 **A**: No alternate accounts are allowed. If found any, both accounts will be banned.
 
 ### Q: Posted in wrong section. What to do?
-**A**: Contact Section Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section.
+**A**: Contact Section Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section. The same can be done over our [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A).
 
 ### Q: Why is there no option to edit my post?
-**A**: If you do not have a pirate Tag, you can not edit your own posts.
+**A**: If you do not have a pirate tag, you can not edit your own posts.
 
 ### Q: I want to suggest some improvements. Where to do that?
 **A**: Go to [this section](https://blackpearl.biz/forums/47/) and start a new thread and write your suggestions.
@@ -216,7 +241,7 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 **A**: Members misused this feature. So from now on, if any member found to misuse this system, he and the other person, both will get banned. You can donate if you liked their work or post. However, you should not misuse this feature. In case if you want to do so, First take permissions from ADMINS, state your reasons. If they allow, then do it.
 
 ### Q: Can I have a custom color of my user ID?
-**A**: Different color represents different groups. So You can not have a custom color.
+**A**: Different color represents different groups. So you can not have a custom color.
 
 ### Q: My post got deleted after pending approval. Can I post it again?
 **A**: Yes. Feel free to post again. However, it will be useful if you know the reason why your post got deleted. So that you will not make the same mistake.
@@ -232,10 +257,14 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 
 ### Q: How to share download links?
 **A**: If you wish to share Google Drive or Mega link then put it inside `[DOWNCLOUD]` tag, Like this : 
-`[DOWNCLOUD]GDRIVE/MEGA LINK[/DOWNCLOUD] 
+`[DOWNCLOUD]GDRIVE/MEGA LINK[/DOWNCLOUD]`
 What it does is shows it in a better way.
 
 If you wish to share a link inside Blackpearl GSuite organization, then you MUST mention about it in the post; otherwise, you'll be warned.
 Posting Gdrive links under any other organization (i.e. edu) are not allowed.
 
 In case you want extra protection, you can use [Blackpearl's Link Protector](https://links.blackpearl.biz/)
+
+### Why this [section](https://blackpearl.biz/forums/116/) have a password?
+This is a forum with tutorial to create profile on various services. This section is locked it behind a password to avoid leechers & copyright trolls. 
+To get the password you need to have 500 likes in your profile, after this plaese go to this [thread](https://blackpearl.biz/threads/907/).
