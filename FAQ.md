@@ -77,50 +77,50 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are usergroups and their privileges?
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
-- **REGISTERED** - Default usergroup after registration 
+- ![REGISTERED](https://i.imgur.com/39fVOFD.png) - Default usergroup after registration 
   >Privileges:
   >>Can give 10 likes/day
 
-- **BOOMER** - Advancement from REGISTERED usergroup
+- ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from REGISTERED usergroup
   >Privileges:
   >>
-- **NOOB** - Demotion from REGISTERED usergroup
+- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from REGISTERED usergroup
   >Disadvantages:
   >>
-- **PIRATE** - Comrade in arms in this sea of piracy
+- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
   >Privileges:
   >>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
-- **UPLOADER** - Advanced and trusted PIRATE
+- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
  >
-- **ENCODER** - Verified encoder
+- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
 >
-- **DONATOR** - The kind-hearted one
+- ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
   >Privileges:
   >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
 >
-- **MODERATOR** - The right hand of STAFF, helping moderating the forum
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) - The right hand of STAFF, helping moderating the forum
 >
-- **STAFF** - The ones above all
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) - The ones above all
 
 ### Q: How to get promoted?
 **A**: Below are what it takes to get the promotion for each usergroup
 
-- **BOOMER** -  Get 10 pearls + 3 days of registration
+- ![BOOMER](https://i.imgur.com/bptMTla.png) -  Get 10 pearls + 3 days of registration
 
-- **NOOB** (demotion) - Liking too much stuff without contributing back to the forum
+- ![NOOB](https://i.imgur.com/FOsw2e9.png) (demotion) - Liking too much stuff without contributing back to the forum
 
-- **PIRATE** - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 100 Pearls (price may subject to change)
+- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 100 Pearls (price may subject to change)
 
-- **UPLOADER** - Getting recognition from STAFF
+- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Getting recognition from STAFF
 
-- **ENCODER** - Be a verified encoder
+- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Be a verified encoder
 
-- **DONATOR** - Donate for the minimum amount of 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
+- ![Donator](https://i.imgur.com/Tq51zem.png) - Donate for the minimum amount of 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
 `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
 
-- **MODERATOR** (lower ranking of STAFF) - Hand-picked by the Staff themselves
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) (lower ranking of Staff member) - Hand-picked by the Staff themselves
 
-- **STAFF** - Only legends get to be one
+- ![STAFF](https://i.imgur.com/0oOZTiW.png) - Only legends get to be one
 
 #Conclusion: Be active, sharing stuff and getting recognized is the first steps to get usergroup promotion.
 
