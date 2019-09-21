@@ -98,7 +98,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   >Privileges:
   >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) - The right hand of STAFF, helping moderating the forum
+- ![STAFF](https://i.imgur.com/0oOZTiW.png)(MODERATOR) - The right hand of STAFF, helping moderating the forum
 >
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) - The ones above all
 
@@ -109,7 +109,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 - ![NOOB](https://i.imgur.com/FOsw2e9.png) (demotion) - Liking too much stuff without contributing back to the forum
 
-- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 100 Pearls (price may subject to change)
+- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
 
 - ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Getting recognition from STAFF
 
