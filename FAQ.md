@@ -280,6 +280,6 @@ Posting Gdrive links under any other organization (i.e. edu) are not allowed.
 
 In case you want extra protection, you can use [Blackpearl's Link Protector](https://links.blackpearl.biz/)
 
-### ### Why does this [section](https://blackpearl.biz/forums/116/) have a password?
-This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
+### Q: Why does this [section](https://blackpearl.biz/forums/116/) have a password?
+**A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
 To get the password you need to have 500 likes on your profile, after this please go to this [thread](https://blackpearl.biz/threads/907/).
