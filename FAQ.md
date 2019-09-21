@@ -78,25 +78,25 @@ Post quality is judged by the amount of effort you put into the creation of your
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
 - **REGISTERED** - Default usergroup after registration 
->Privileges:
->>Can give 10 likes/day
+  >Privileges:
+  >>Can give 10 likes/day
 
 - **BOOMER** - Advancement from REGISTERED usergroup
->Privileges:
->>
+  >Privileges:
+  >>
 - **NOOB** - Demotion from REGISTERED usergroup
->Disadvantages:
->>
+  >Disadvantages:
+  >>
 - **PIRATE** - Comrade in arms in this sea of piracy
->Privileges:
->>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
+  >Privileges:
+  >>Comment/like in 4k/Packs section | Limit is increased to 50 likes per day | Can bypass flood & spam protection | Can use custom usertitle | Can change names | Upload attachments | Use advance search | Can check who has read/reading threads | + some more small features.
 - **UPLOADER** - Advanced and trusted PIRATE
->
+ >
 - **ENCODER** - Verified encoder
 >
 - **DONATOR** - The kind-hearted one
->Privileges:
->>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
+  >Privileges:
+  >>Donator Custom Donator Userbar | Colored Username | Can use custom title | Can use private notepad | Daily Likes increased to 50 | Can bypass flood check | Can bypass spam check | Can delete own threads & Posts | No edit time limit | Can change username in every 24 hours | Bypass approval of username change | Can view banned username list + reason | Can check who has read & is viewing thread in every threads.
 >
 - **MODERATOR** - The right hand of STAFF, helping moderating the forum
 >
