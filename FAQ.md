@@ -117,6 +117,8 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 - ![Donator](https://i.imgur.com/Tq51zem.png) - Donate for the minimum amount of 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
 `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
+    
+    **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) (lower ranking of Staff member) - Hand-picked by the Staff themselves
 
@@ -124,14 +126,14 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 #Conclusion: Be active, sharing stuff and getting recognized is the first steps to get usergroup promotion.
 
-### Q: How to get yourself banned?
+### Q: How to get myself banned?
 **A**: This will only happen if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
-### Q: Alright, so you just joined Blackpearl! What to do now?
+### Q: Alright, so I just joined Blackpearl! What to do now?
 **A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
-### Q: What to write for your introduction?
+### Q: What to write for my introduction?
 **A**: Don't give away personal info and write about your interests, it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
 You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognisable, or have been in some other reputed forums you can mention all that.
 This was supposed to filter out the trolls, but, honestly if you write something good people would be happy and friendly with you!
@@ -143,7 +145,7 @@ You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 ### Q: How to post and solve requests?
 
 
-### Q: You just made a post but it's not showing up anymore, what's happening?
+### Q: I just made a post but it's not showing up anymore, what's happening?
 **A**: It's most probably in the Approval Queue or already deleted due to breaking rules or improper format/missing stuff.
 The current system does not inform the poster about their post getting rejected. If you post something worthless we won't even inform you in PM.
 
@@ -172,12 +174,6 @@ If you would like to access these sections you have contribute on forum to get P
 For that you need to use imagehoster for that we recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, since it allows you to reach the orginal image link. Example: `https://hoster.com/image.png`.
 
 In case you prefer to use Imgur, then instead of copying the default link that they provide, go over the image and press the three dot button, from there select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that paste the link to your post, it won't show image in edit mode, if you want to resize then just press the preview button, the image will be loaded in both preview and edit mode.  
-
-### Q: How much donation is required to get the donator rank?
-**A**: The minimum donation amount is 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
-`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
-
-**Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 
 ### Q: How to add tags in post?
 **A**: While creating a thread you can add comma separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma separated tags.
