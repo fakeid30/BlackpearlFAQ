@@ -77,21 +77,25 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are user groups and their privileges?
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
-![NOOB](https://i.imgur.com/FOsw2e9.png) Demotion from REGISTERED usergroup
+![NOOB](https://i.imgur.com/FOsw2e9.png)  Demotion from REGISTERED usergroup
 *  **Description**
   +  Can't React or Reply to any thread.
-  
+* **How to Get**
+  + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
 
-![REGISTERED](https://i.imgur.com/39fVOFD.png) Default user group after registration 
+![REGISTERED](https://i.imgur.com/39fVOFD.png)  Default user group after registration 
 * **Description**
   +  Can give 10 likes/day
-  
+* **How to Get**
+  + The default user group you get after registering to the forum
 
-![BOOMER](https://i.imgur.com/bptMTla.png) Advancement from REGISTERED usergroup
+![BOOMER](https://i.imgur.com/bptMTla.png)  Advancement from REGISTERED usergroup
 * **Description**
   +  No need of post approval
+* **How to Get**
+  + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
 
-![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy
+![PIRATE](https://i.imgur.com/KB4eBa1.png)   Comrade in arms in this sea of piracy
 * **Description**
   + Comment/like in 4k/Packs section
   + Limit is increased to 50 likes per day
@@ -102,13 +106,18 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Use advance search
   + Can check who has read/reading threads
   + some more small features.
-  
+* **How to Get**
+  +   Purchase from the [Shop](https://blackpearl.biz/shop/1/) for *75 Pearls*
 
-![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted PIRATE
+![UPLOADER](https://i.imgur.com/mUN9Uvc.png)  Advanced and trusted PIRATE
+* **How to Get**
+  +   Chosen pirates by STAFF
 
-![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder
+![ENCODER](https://i.imgur.com/xUagkT8.png)   Verified encoder
+* **How to Get**
+  +   Showing proof to STAFF that you are really an encoder
 
-![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one
+![Donator](https://i.imgur.com/Tq51zem.png)   The kind-hearted one
 * **Description**
   + Donator Custom Donator Userbar
   + Colored Username
@@ -123,36 +132,16 @@ Post quality is judged by the amount of effort you put into the creation of your
   + Bypass approval of username change
   + Can view banned username list + reason
   + Can check who has read & is viewing thread in every threads.
+* **How to Get**
+  +   Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
 
-![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - The right hand of STAFF, helping to moderate the forum
+![STAFF](https://i.imgur.com/0oOZTiW.png)  The Law
 * **Description**
   + *MODERATOR:* They help maintain order in the forum
   + *ADMIN:* Highest authority
+* **How to Get**
+  +   People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested. 
   
-### Q: How to get promoted?
-**A**: Below are what it takes to get the promotion for each user group
-
-- ![BOOMER](https://i.imgur.com/bptMTla.png) -  Get 10 pearls + 3 days of registration
-
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) (demotion) - Liking too much stuff without contributing back to the forum
-
-- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Buy the PIRATE upgrade from [HERE](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
-
-- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Getting recognition from STAFF
-
-- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Be a verified encoder
-
-- ![Donator](https://i.imgur.com/Tq51zem.png) - Donate for the minimum amount of 5$. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
-`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
-    
-    **Observation: After donating via Bitcoin, you need to create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
-
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) - Hand-picked by the Staff themselves.
-
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) - Only legends get to be one. If you have exceptional technical capability knock [@ChoromPotro](https://t/me/chorompotro) on telegram to talk about this.
-
-Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get user group promotion.
-
 ### Q: How to get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
