@@ -78,7 +78,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 **A**: Usergroups are what separates the forum's member by ranking or privileges and consists of:
 
 ![NOOB](https://i.imgur.com/FOsw2e9.png)
-*  **Description**
+* **Description**
   + Can't React or Reply to any thread.
 * **How to Get**
   + If you are a REGISTERED memeber and do *Noob* things like replying "Thanks" to any post you see or liking lots threads (Leeching)  
