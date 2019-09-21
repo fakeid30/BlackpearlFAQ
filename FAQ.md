@@ -160,7 +160,7 @@ If you would like to access these sections you have contribute on the forum to g
 **A**: You will soon receive credentials(mail and temporary password) for the GSuite account in your PM from Admin. GSuite is like any other edu/Gmail account, with unlimited storage and capability of making team drives! All you have to do is to log in to Google and change password.
 
 ### Q: How to check how many pearls I have? Who is the wealthiest user?
-**A**:[Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the richest user is, and all the pearls you won/spent.
+**A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls do you have, who the richest user is, and all the pearls you won/spent.
 
 ### Q: I just created a thread/post but can't see it posted.
 **A**: If you are a registered user or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
@@ -182,11 +182,6 @@ In case you prefer to use Imgur, then instead of copying the default link that t
 **A**: You need to contact the admins and let them know what you want to sell, we'll help you make a post and set the price.
 
 ### Q: How to remove my post from the forum? I can't see any option.
-**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
-### Q: How to remove my post from the forum? I can't see any option.
-**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
-
-### Q: How to remove my own post from the forum? I can't see any option
 **A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A) drop your link and ask for a remove. In both ways, you have to wait until the staff process your report.
 
 ### Q: Approval applies to all sections?
