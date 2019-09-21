@@ -124,7 +124,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 
 - ![STAFF](https://i.imgur.com/0oOZTiW.png) - Only legends get to be one
 
-#Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get user group promotion.
+Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get user group promotion.
 
 ### Q: How to get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
@@ -143,7 +143,7 @@ The system was supposed to filter out the trolls, but, honestly, if you write so
 You can hide the content with this tag `[pearl=0]your content[/pearl]`.
 
 ### Q: How to post and solve requests?
-
+**A**: Head ver to [request section] (https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in appropriate section and offer pearls.
 
 ### Q: I just made a post, but it's not showing up anymore, what's happening?
 **A**: It's most probably in the Approval Queue or already deleted due to breaking the rules or improper format/missing stuff.
