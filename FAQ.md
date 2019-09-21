@@ -86,18 +86,19 @@ Post quality is judged by the amount of effort you put into the creation of your
 ![REGISTERED](https://i.imgur.com/39fVOFD.png)
 * **Description**
   + Can give 10 likes/day
+  + Posts need approval from STAFF before showing on the Forum
 * **How to Get**
   + The default user group you get after registering to the forum
 
 ![BOOMER](https://i.imgur.com/bptMTla.png)
 * **Description**
-  + No need of post approval
+  + Posts don't need approval
 * **How to Get**
   + Be a registered of the forum for at least *3 days* and earn *10 Pearls*
 
 ![PIRATE](https://i.imgur.com/KB4eBa1.png)
 * **Description**
-  + Comment/like in 4k/Packs section
+  + Comment/Like in 4k/Packs sections
   + Limit is increased to 50 likes per day
   + Can bypass flood & spam protection
   + Can use custom usertitle
