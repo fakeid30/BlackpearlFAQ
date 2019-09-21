@@ -280,6 +280,6 @@ If you wish to share a link inside the Blackpearl GSuite organization, then you 
 
 In case you want extra protection, you can use the [Blackpearl's Link Protector](https://links.blackpearl.biz/)
 
-### ### Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?
-This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
+### Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?
+**A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
 To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to recieve the password.
