@@ -16,7 +16,7 @@ The system was supposed to filter out the trolls, but, honestly, if you write so
 ### Q: How do I earn pearls?
 **A**: You can earn pearls in 3 ways:
 1) Fill user requests from various subsections.
-2) Sell something in the shop or provide a service. You can see the [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
+2) Sell something in the pearls only section or provide a service. You can see the [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
 3) Post items in the forum (Note: You can not share links from other forums). You must mirror it yourself and share it. The reward system is the following:
 <table>
   <tr>
@@ -86,7 +86,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are the user groups, their privileges, and how to get promoted/demoted?
 **A**: User groups are what separate the forum's members by ranking or privileges and consists of:
 
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from the Registered user group.
+- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from the Registered user group. Happens if you try to leach without contributing back.
   >Disadvantages:
   > - All posts will not have a like button. You will need to upgrade to the Boomer group by having ten pearls and three posts. Any posts count, not just threads.
   
