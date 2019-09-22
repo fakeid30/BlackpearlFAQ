@@ -162,7 +162,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   > - Same privileges as Pirate and Donator group
   > - Can view links without having to like threads/posts
   > - Can move/remove threads/posts
-  > - Can approval/disapproval threads/osts
+  > - Can approve/disapprove threads/posts
   
   >Promotion:
   > - Hand-picked by the Staff themselves.
