@@ -157,7 +157,7 @@ Post quality is judged by the amount of effort you put into the creation of your
     
     **Observation: After donating via Bitcoin, you need to create a thread in the [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
 >
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (MODERATOR) [GREEN] - The right hand of Staff, helping to moderate the forum.
+- <img src="https://media.giphy.com/media/iGAYbjOM4QFTAiOUmU/giphy.gif" alt="Staff Icon" width="100"/> (MODERATOR) [GREEN] - The right hand of Staff, helping to moderate the forum.
   >Privileges:
   > - Same privileges as Pirate and Donator group
   > - Can view links without having to like threads/posts
@@ -167,7 +167,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   >Promotion:
   > - Hand-picked by the Staff themselves.
   
-- ![STAFF](https://i.imgur.com/0oOZTiW.png) (ADMIN) [RED] - The ones above all.
+- <img src="https://media.giphy.com/media/iGAYbjOM4QFTAiOUmU/giphy.gif" alt="Staff Icon" width="100"/> (ADMIN) [RED] - The ones above all.
   >Privileges:
   > - **GOD**
 
@@ -179,85 +179,18 @@ Conclusion: Being active, sharing stuff, and getting recognized is the first ste
 ### Q: How do I get myself banned?
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
-### Q: What can I post in the 'Pearls-Only' section?
-**A**: You can only post original or rare uploads. 
-You can hide the content with this tag `[pearl=0]your content[/pearl]` the number denoting your desired pearl. 
-
-### Q: How do I post and solve requests?
-Head over to the [request section](https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in the appropriate section and offer pearls.
+### Q: I just created a thread/post but can't see it posted.
+**A**: If you are a Registered User or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
 
 ### Q: I just made a post, but it's not showing up anymore. What's happening?
 **A**: It's most likely either in the Approval Queue or already deleted due to breaking the rules or for having an improper format/missing stuff.
 The current system does not inform the post creator about their post getting rejected. If you post something worthless, we won't even notify you in a PM.
 
-### Q: Why is the like button not visible to me?
-**A**: If you are a new user, you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to the rest of the forum. You can view posts but cannot react to them unless you post your introduction.
-
-### Q: What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?
-**A**: This happens because you are in the "Registered" or "Boomers" user group and can not give likes or post replies in other members threads;
-If you would like access to these sections, you have to contribute on the forum to get the Pirate tag. The Pirate tag can be purchased from the [shop](https://blackpearl.biz/shop/) for 75 pearls.
-
-### Q: I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?
-**A**: You will soon receive credentials (mail and a temporary password) for the GSuite account in your PM from an Admin. GSuite is like any other edu/Gmail account; with unlimited storage and capability of making team drives! All you have to do is to log in to the Google account with the email and temporary password you were given and change your password.
-
-### Q: How do I check how many pearls I have? Who is the wealthiest user?
-**A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls you have, who the wealthiest user is, and all the pearls you have won or spent.
-
-### Q: I just created a thread/post but can't see it posted.
-**A**: If you are a Registered User or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
-
 ### Q: How long does it take to have a post approved on the forum?
 **A**: There isn't a specific time range for a post to be approved. Posts will be accepted once a Moderator is available and goes through the posts that need approval. Usually, posts will not take more than 24 hours to be approved.
 
-### Q: How does one add a picture to a post? Also, what image hosters I can use?
-**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [BBCode](https://blackpearl.biz/help/bb-codes/), you have to use the `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
-
-For that, you need to use an image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, as long as it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
-
-For Imgur, instead of copying the default link that they provide, go over the image and press the three-dot button. From there, select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that, you can paste the link to your post, but be aware that it won't show image in edit mode. If you want to resize the image, then press the preview button, and the image will be loaded in both the preview and edit mode.  
-
-### Q: How do I add tags in a post?
-**A**: While creating a thread, you can add comma-separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma-separated tags.
-
-### Q: How do I sell items in the shop?
-**A**: You need to contact the admins and let them know what you want to sell. We will help you make a post and set the price.
-
-### Q: How do I remove my post from the forum? I can't see any option.
-**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A), drop your link and ask for it to be removed. In both ways, you will have to wait until the staff process your report.
-
 ### Q: Does approval apply to all sections?
 **A**: If you have the Boomer tag, then only posts in the [Golden Guides](https://blackpearl.biz/forums/154/) section need approval. However, if you don't have the Boomer tag, then all your posts require approval. 
-
-### Q: How can I change my user name?
-**A**: If you have a Donator tag, then you can change your user name every 24 hours. However, if you do not have a Donator tag, then you can change your user name only once every 30 days.
-
-### Q: Can we buy reaction score with pearls? If no, why not?
-**A**: No, you can not purchase reaction score with pearls as it would result with spamming in the forum.
-
-### Q: Who should I contact for which issues?
-**A**: For any Account related issues, Contact ADMINS (members whose user ID is in RED)
-       For Post related issues, Contact that section's Moderators.
-
-### Q: Are alternate accounts allowed?
-**A**: No, alternate accounts are NOT allowed. If any were to be found, both accounts would be banned.
-
-### Q: I posted in the wrong section. What should I do?
-**A**: Contact the section's Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section. The same can be done over our [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A).
-
-### Q: Why is there no option to edit my post?
-**A**: If you do not have the Pirate tag, you can not edit your own posts.
-
-### Q: I want to suggest some improvements. Where should I go to do that?
-**A**: Go to our [Suggestions & feedback](https://blackpearl.biz/forums/47/) section and start a new thread and write your suggestions.
-
-### Q: Can we purchase more than 1 Gsuite account?
-**A**: According to new rules, you can only purchase 1 Gsuite account.
-
-### Q: Can I donate pearls to other members (my friends), so that they can purchase something from the shop.
-**A**: Members have misused this feature. So from now on, if any member is found to be abusing the system, both the member and the other person will be banned. You can donate if you liked their work or post. However, you should not misuse this feature. In case you want to do so, you can ask for permission from the ADMINS stating your reasons, and if they allow it, then you may proceed with the donation.
-
-### Q: Can I have a custom color for my user ID?
-**A**: Different colors represent different groups, so you can not have a custom color.
 
 ### Q: My post got deleted after pending approval. Can I post it again?
 **A**: Yes. Feel free to post again; however, it would be useful if you knew the reason why your post got deleted in the first place. This will allow you not to make the same mistake.
@@ -280,6 +213,73 @@ If you wish to share a link inside the Blackpearl GSuite organization, then you 
 
 In case you want extra protection, you can use the [Blackpearl's Link Protector](https://links.blackpearl.biz/)
 
+### Q: How do I add tags in a post?
+**A**: While creating a thread, you can add comma-separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma-separated tags.
+
+### Q: How does one add a picture to a post? Also, what image hosters I can use?
+**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [BBCode](https://blackpearl.biz/help/bb-codes/), you have to use the `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
+
+For that, you need to use an image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, as long as it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
+
+For Imgur, instead of copying the default link that they provide, go over the image and press the three-dot button. From there, select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that, you can paste the link to your post, but be aware that it won't show image in edit mode. If you want to resize the image, then press the preview button, and the image will be loaded in both the preview and edit mode.
+
+### Q: How do I remove my post from the forum? I can't see any option.
+**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A), drop your link and ask for it to be removed. In both ways, you will have to wait until the staff process your report.
+
+### Q: I posted in the wrong section. What should I do?
+**A**: Contact the section's Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section. The same can be done over our [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A).
+
+### Q: Why is there no option to edit my post?
+**A**: If you do not have the Pirate tag, you can not edit your own posts.
+
+### Q: What can I post in the 'Pearls-Only' section?
+**A**: You can only post original or rare uploads. 
+You can hide the content with this tag `[pearl=0]your content[/pearl]` the number denoting your desired pearl. 
+
+### Q: How do I post and solve requests?
+Head over to the [request section](https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in the appropriate section and offer pearls.
+
+### Q: Why is the like button not visible to me?
+**A**: If you are a new user, you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to the rest of the forum. You can view posts but cannot react to them unless you post your introduction.
+
+### Q: What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?
+**A**: This happens because you are in the "Registered" or "Boomers" user group and can not give likes or post replies in other members threads;
+If you would like access to these sections, you have to contribute on the forum to get the Pirate tag. The Pirate tag can be purchased from the [shop](https://blackpearl.biz/shop/) for 75 pearls.
+
+### Q: I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?
+**A**: You will soon receive credentials (mail and a temporary password) for the GSuite account in your PM from an Admin. GSuite is like any other edu/Gmail account; with unlimited storage and capability of making team drives! All you have to do is to log in to the Google account with the email and temporary password you were given and change your password.
+
+### Q: Can we buy reaction score with pearls? If no, why not?
+**A**: No, you can not purchase reaction score with pearls as it would result with spamming in the forum.
+
+### Q: Can we purchase more than 1 Gsuite account?
+**A**: According to new rules, you can only purchase 1 Gsuite account.
+
+### Q: How do I check how many pearls I have? Who is the wealthiest user?
+**A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls you have, who the wealthiest user is, and all the pearls you have won or spent.
+
+### Q: Can I donate pearls to other members (my friends), so that they can purchase something from the shop.
+**A**: Members have misused this feature. So from now on, if any member is found to be abusing the system, both the member and the other person will be banned. You can donate if you liked their work or post. However, you should not misuse this feature. In case you want to do so, you can ask for permission from the ADMINS stating your reasons, and if they allow it, then you may proceed with the donation.
+
+### Q: How do I sell items in the shop?
+**A**: You need to contact the admins and let them know what you want to sell. We will help you make a post and set the price.
+
+### Q: How can I change my user name?
+**A**: If you have a Donator tag, then you can change your user name every 24 hours. However, if you do not have a Donator tag, then you can change your user name only once every 30 days.
+
+### Q: Can I have a custom color for my user ID?
+**A**: Different colors represent different groups, so you can not have a custom color.
+
+### Q: Are alternate accounts allowed?
+**A**: No, alternate accounts are NOT allowed. If any were to be found, both accounts would be banned.
+
 ### Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?
 **A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
 To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to receive the password.
+
+### Q: Who should I contact for which issues?
+**A**: For any Account related issues, Contact ADMINS (members whose user ID is in RED)
+       For Post related issues, Contact that section's Moderators.
+
+### Q: I want to suggest some improvements. Where should I go to do that?
+**A**: Go to our [Suggestions & feedback](https://blackpearl.biz/forums/47/) section and start a new thread and write your suggestions.
