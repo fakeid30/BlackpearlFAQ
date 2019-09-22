@@ -1,7 +1,7 @@
 ### Q: What is Blackpearl?
 **A**: Blackpearl is much more than a forum. It's a complete platform to spend your time making friends and getting lost in whatever interests you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
-### Q: I just joined Blackpearl! What to do now?
+### Q: I just joined Blackpearl! What should I do now?
 **A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
@@ -210,9 +210,9 @@ If you would like access to these sections, you have contribute on the forum to 
 **A**: There isn't a specific time range for a post to be approved. Posts will be approved once a Moderator is available and goes through the posts that need approval. Usually, posts will not take more than 24 hours to be approved.
 
 ### Q: How does one add a picture to a post? Also, what image hosters I can use?
-**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [bbcode](https://www.phpbb.com/), you have to use the `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
+**A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [BBCode](https://blackpearl.biz/help/bb-codes/), you have to use the `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
 
-For that you need to use an image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, since it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
+For that you need to use an image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, as long as it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
 
 For Imgur, instead of copying the default link that they provide, go over the image and press the three-dot button. From there, select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that, you can paste the link to your post, but be aware that it won't show image in edit mode. If you want to resize the image, then press the preview button and the image will be loaded in both the preview and edit mode.  
 
@@ -223,13 +223,13 @@ For Imgur, instead of copying the default link that they provide, go over the im
 **A**: You need to contact the admins and let them know what you want to sell. We will help you make a post and set the price.
 
 ### Q: How do I remove my post from the forum? I can't see any option.
-**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A), drop your link and ask for it to be remove. In both ways, you have to wait until the staff process your report.
+**A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A), drop your link and ask for it to be removed. In both ways, you will have to wait until the staff process your report.
 
 ### Q: Does approval apply to all sections?
 **A**: If you have the Boomer tag, then only posts in the [Golden Guides](https://blackpearl.biz/forums/154/) section need approval. However, if you don't have the Boomer tag, then all your posts need approval. 
 
 ### Q: How can I change my user name?
-**A**: If you have a Donator tag, then you can change your user name every 24 hours. Moreover, if you do not have a Donator tag, then you can change your user name only once every 30 days.
+**A**: If you have a Donator tag, then you can change your user name every 24 hours. However, if you do not have a Donator tag, then you can change your user name only once every 30 days.
 
 ### Q: Can we buy reaction score with pearls? If no, why not?
 **A**: No, you can not buy reaction score with pearls as it would result with spamming in the forum.
@@ -239,7 +239,7 @@ For Imgur, instead of copying the default link that they provide, go over the im
        For Post related issues, Contact that section's Moderators.
 
 ### Q: Are alternate accounts allowed?
-**A**: No, alternate accounts are NOT allowed. If any are found, both accounts will be banned.
+**A**: No, alternate accounts are NOT allowed. If any were to be found, both accounts will be banned.
 
 ### Q: I posted in wrong section. What should I do?
 **A**: Contact the section's Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section. The same can be done over our [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A).
@@ -282,4 +282,4 @@ In case you want extra protection, you can use the [Blackpearl's Link Protector]
 
 ### Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?
 **A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
-To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to recieve the password.
+To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to receive the password.
