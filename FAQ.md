@@ -188,7 +188,7 @@ Head over to the [request section](https://blackpearl.biz/#requests) and see if 
 
 ### Q: I just made a post, but it's not showing up anymore. What's happening?
 **A**: It's most likely either in the Approval Queue or already deleted due to breaking the rules or for having an improper format/missing stuff.
-The current system does not inform the poster about their post getting rejected. If you post something worthless, we won't even notify you in a PM.
+The current system does not inform the post creator about their post getting rejected. If you post something worthless, we won't even notify you in a PM.
 
 ### Q: Why is the like button not visible to me?
 **A**: If you are a new user, you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to the rest of the forum. You can view posts but cannot react to them unless you post your introduction.
