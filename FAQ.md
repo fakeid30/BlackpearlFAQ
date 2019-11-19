@@ -86,7 +86,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are the user groups, their privileges, and how to get promoted/demoted?
 **A**: User groups are what separate the forum's members by ranking or privileges and consists of:
 
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from the Registered user group. Happens if you try to leach without contributing back.
+- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from the Registered user group. Users who have been registered for 30+ days that are inactive(never posted anything) and who are part of the registered usergroup will be demoted to NOOB usergroup automatically, or if you are mass leaching without sharing content back.
   >Disadvantages:
   > - All posts will not have a like button. You will need to upgrade to the Boomer group by having ten pearls and three posts. Any posts count, not just threads.
   
