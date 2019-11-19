@@ -2,7 +2,7 @@
 **A**: Blackpearl is much more than a forum. It's a complete platform to spend your time making friends and getting lost in whatever interests you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
 ### Q: I just joined Blackpearl! What should I do now?
-**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and FAQ.
+**A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and [FAQ](https://blackpearl.biz/faq/).
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
 ### Q: What to write for my introduction?
@@ -86,28 +86,30 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### Q: What are the user groups, their privileges, and how to get promoted/demoted?
 **A**: User groups are what separate the forum's members by ranking or privileges and consists of:
 
-- ![NOOB](https://i.imgur.com/FOsw2e9.png) - Demotion from the Registered user group. Users who have been registered for 30+ days that are inactive(never posted anything) and who are part of the registered usergroup will be demoted to NOOB usergroup automatically, or if you are mass leaching without sharing content back.
-  >Disadvantages:
-  > - All posts will not have a like button. You will need to upgrade to the Boomer group by having ten pearls and three posts. Any posts count, not just threads.
+- ![NOOB](https://i.imgur.com/FOsw2e9.png)
+  >Description:
+  > - Can't React or Reply to any thread.
   
-  > Demotion:
-  > - Liking too many things without contributing back to the forum
+  > How to Get:
+  > - Demotion from the Registered user group. Users who have been registered for 30+ days that are inactive(never posted anything) and who are part of the registered usergroup will be demoted to NOOB usergroup automatically, or if you are mass leaching without sharing content back.
 
-- ![REGISTERED](https://i.imgur.com/39fVOFD.png) - Default user group after registration.
-  >Privileges:
+- ![REGISTERED](https://i.imgur.com/39fVOFD.png)
+  >Description:
   > - Can give 10 likes/day
   > - All of your threads need approval
 
-- ![BOOMER](https://i.imgur.com/bptMTla.png) - Advancement from Registered user group.
-  >Privileges:
-  > - Same privileges as Registered group
-  > - No need of post approval
+  > How to Get:
+  > - The default user group you get after registering to the forum
+
+- ![BOOMER](https://i.imgur.com/bptMTla.png)
+  >Description:
+  > - Posts don't need approval.
   
-  >Promotion:
-  >  - Get 10 pearls + 3 days of registration
+  >How to Get:
+  >  - Be a registered of the forum for at least 3 days and earn 10 Pearls.
   
-- ![PIRATE](https://i.imgur.com/KB4eBa1.png) - Comrade in arms in this sea of piracy.
-  >Privileges:
+- ![PIRATE](https://i.imgur.com/KB4eBa1.png)
+  >Description:
   > - Comment/like in the 4k/Packs section 
   > - Limit is increased to 50 likes per day
   > - Can bypass flood & spam protection
@@ -118,25 +120,25 @@ Post quality is judged by the amount of effort you put into the creation of your
   > - Can check who has read/reading threads
   > - And some more small features
   
-  >Promotion:
-  > - Buy the Pirate upgrade from [HERE](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
+  >How to Get:
+  > - Purchase from the [Shop](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
 
-- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png) - Advanced and trusted Pirate.
-  >Privileges:
-  > - Same privileges as Pirate group
+- ![UPLOADER](https://i.imgur.com/mUN9Uvc.png)
+  >Description:
+  > - Same privileges as Pirates group
 
-  >Promotion:
-  > - Getting recognition from Staff
+  >How to Get:
+  > - Gaining Recognition as a Pirate, will be promoted manually by the Staff
 
-- ![ENCODER](https://i.imgur.com/xUagkT8.png) - Verified encoder.
-  >Privileges:
-  > - Same privileges as Pirate group
+- ![ENCODER](https://i.imgur.com/xUagkT8.png)
+  >Description:
+  > - Same privileges as Pirate group.
   
-  >Promotion:
-  > - Be a verified encoder
+  >How to Get:
+  > - Showing proof to the Staff that you are really an encoder.
 
-- ![Donator](https://i.imgur.com/Tq51zem.png) - The kind-hearted one.
-  >Privileges:
+- ![Donator](https://i.imgur.com/Tq51zem.png)
+  >Description:
   > - Donator Custom Donator Userbar
   > - Colored Username 
   > - Can use custom title 
@@ -151,28 +153,23 @@ Post quality is judged by the amount of effort you put into the creation of your
   > - Can view banned username list + reason 
   > - Can check who has read & is viewing thread in every threads
 
-  >Promotion:
-  > - Donate the minimum amount of $5. This can be done via [PayPal](https://blackpearl.biz/account/upgrades/) or Bitcoin via this address: 
-`bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r`.
-    
-    **Observation: After donating via Bitcoin, you need to create a thread in the [helpdesk](https://blackpearl.biz/forums/121/) section so that the staff can upgrade your account.**
->
-- <img src="https://media.giphy.com/media/iGAYbjOM4QFTAiOUmU/giphy.gif" alt="Staff Icon" width="100"/> (MODERATOR) [GREEN] - The right hand of Staff, helping to moderate the forum.
-  >Privileges:
-  > - Same privileges as Pirate and Donator group
-  > - Can view links without having to like threads/posts
-  > - Can move/remove threads/posts
-  > - Can approve/disapprove threads/posts
-  
-  >Promotion:
-  > - Hand-picked by the Staff themselves.
-  
-- <img src="https://media.giphy.com/media/iGAYbjOM4QFTAiOUmU/giphy.gif" alt="Staff Icon" width="100"/> (ADMIN) [RED] - The ones above all.
-  >Privileges:
-  > - **GOD**
+  >How to Get:
+  > - Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
 
-  >Promotion:
-  > - Only legends get to be one. If you have exceptional technical capability knock [@ChoromPotro](https://t/me/chorompotro) on telegram to talk about this.
+- ![BP Elite](https://i.ibb.co/xfyYYyW/bpelite.png)
+  >Description:
+  > - At the time Elite members have the same privileges as Donator group.
+
+  >How to Get:
+  > - Donating to the forum a minimum of 10$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
+
+- <img src="https://media.giphy.com/media/iGAYbjOM4QFTAiOUmU/giphy.gif" alt="Staff Icon" width="100"/>
+  >Description:
+  > - MODERATOR [GREEN]: They help maintain order in the forum
+  > - ADMIN [RED]: Highest authority
+
+  >How to Get:
+  > - People that show promise will get chosen by STAFF members. Usually STAFF will recognize these people and promote them, but if you think you are qualified you can message a STAFF member that you are interested.
   
 Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get/stay user group promotion.
 
@@ -283,3 +280,14 @@ To get the password, you need to have 500 likes on your profile. Once you have t
 
 ### Q: I want to suggest some improvements. Where should I go to do that?
 **A**: Go to our [Suggestions & feedback](https://blackpearl.biz/forums/47/) section and start a new thread and write your suggestions.
+
+### Q: How to get in the Encoders user group?
+**A**: If you are an Encoder you can prove your identity and avail the Encoder usergroup. The process is following:
+  1) Your public encoding name must match your BP username. You can have different username here after verification is done.
+  2) Send a message here: https://1337x.to/user/ChoromPotro/ from your encoder profile. The subject line should be: "Encoder verification for BP"
+  3) PM [ChoromPotro](https://blackpearl.biz/conversations/add?to=ChoromPotro) in BP saying that you have already done step 2.
+
+That's it, the status will change after the verification. The whole process should take less than an hour.
+
+### NOTE:
+If you think the FAQ is out of date, missing questions, or contains grammatical errors, help improve it [here](https://github.com/fakeid30/BlackpearlFAQ).
