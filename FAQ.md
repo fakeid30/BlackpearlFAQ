@@ -104,6 +104,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 - ![BOOMER](https://i.imgur.com/bptMTla.png)
   >Description:
   > - Posts don't need approval.
+  > - Able to invite 2 people per day, or 4 per month.
   
   >How to Get:
   >  - Be a registered of the forum for at least 3 days and earn 10 Pearls.
@@ -119,6 +120,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   > - Use advance search
   > - Can check who has read/reading threads
   > - And some more small features
+  > - Able to invite 10 people per month
   
   >How to Get:
   > - Purchase from the [Shop](https://blackpearl.biz/shop/1/) for 75 Pearls (price may subject to change)
@@ -126,6 +128,7 @@ Post quality is judged by the amount of effort you put into the creation of your
 - ![UPLOADER](https://i.imgur.com/mUN9Uvc.png)
   >Description:
   > - Same privileges as Pirates group
+  > - No invite limits
 
   >How to Get:
   > - Gaining Recognition as a Pirate, will be promoted manually by the Staff
@@ -152,6 +155,7 @@ Post quality is judged by the amount of effort you put into the creation of your
   > - Bypass approval of username change 
   > - Can view banned username list + reason 
   > - Can check who has read & is viewing thread in every threads
+  > - Able to invite 2 people per day, or 4 per month.
 
   >How to Get:
   > - Donating to the forum a minimum of 5$. Donation could be done through [PayPal](https://blackpearl.biz/account/upgrades/) or if you want to pay Bitcoin you can do that using `bc1qc2wkxlv0xmty2tapgatewefxnd33wyfsnxd47r` and create a thread in [helpdesk](https://blackpearl.biz/forums/121/) section so that the STAFF can upgrade your account
@@ -288,6 +292,10 @@ To get the password, you need to have 500 likes on your profile. Once you have t
   3) PM [ChoromPotro](https://blackpearl.biz/conversations/add?to=ChoromPotro) in BP saying that you have already done step 2.
 
 That's it, the status will change after the verification. The whole process should take less than an hour.
+
+### Q: How do I gain Invitation Codes?
+A: In order to create Invitation codes, you must be apart of the Boomers Usergroup or above. First click your username in the top right corner, then click "Your invitations". From there you will be able to create Invitation codes and view existing codes that were already created by you. Be aware of users you have invited as their actions are reflected upon you. If they cause trouble it can lead to both the referrer and referral being banned.
+
 
 ### NOTE:
 If you think the FAQ is out of date, missing questions, or contains grammatical errors, help improve it [here](https://github.com/fakeid30/BlackpearlFAQ).
