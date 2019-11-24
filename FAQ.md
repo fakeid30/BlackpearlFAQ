@@ -1,20 +1,57 @@
-### Q: What is Blackpearl?
+# Table of Contents #
+
+1. [What is Blackpearl?](#what-is-blackpearl)
+2. [I just joined Blackpearl! What should I do now?](#joined-blackpearl)
+3. [What to write for my introduction?](#introduction) 
+4. [What are pearls and how do I earn them?](#pearl)
+5. [What are the user groups, their privileges, and how to get promoted/demoted?](#usergroups)
+6. [How do I get myself banned?](#banned)
+7. [I just made a post, but it's not showing up anymore or it's not posted? Whats happening?](#approval)
+8. [How long does it take to have a post approved on the forum?](#approval-time)
+9. [Does approval apply to all sections?](#approval-section)
+10. [My post got deleted after pending approval. Can I post it again?](#posts-deleted)
+11. [Which file hosters are accepted on the forum?](#file-hosters)
+12. [How do I share download links?](#download)
+13. [How do I add tags in a post?](#tags)
+14. [How does one add a picture to a post? Also, what image hosters I can use?](#pictures)
+15. [How do I remove my post from the forum? I can't see any option.](#post-delete)
+16. [I posted in the wrong section. What should I do?](#wrong-section)
+17. [Why is there no option to edit my post?](#post-edit)
+18. [What can I post in the 'Pearls-Only' section?](#pearls-only)
+19. [How do I post and solve requests?](#requests)
+20. [Why is the like button not visible to me?](#like-button)
+21. [What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?](#4k-packs)
+22. [I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?](#gsuite)
+23. [Can we buy reaction score with pearls? If no, why not?](#reaction-scrore)
+24. [Can we purchase more than 1 Gsuite account?](#dupe-gsuite)
+25. [How do I check how many pearls I have? Who is the wealthiest user?](#checking-pearls)
+26. [Can I donate pearls to other members (my friends), so that they can purchase something from the shop.](#donate)
+27. [How do I sell items in the shop?](#selling-shop)
+28. [How can I change my user name?](#change-user)
+29. [Can I have a custom color for my user ID?](#custom-color)
+30. [Are alternate accounts allowed?](#Dupes)
+31. [Why does the How to get free Account on Various Service section have a password?](#VSS)
+32. [Who should I contact for which issues?](#issues)
+33. [I want to suggest some improvements. Where should I go to do that?](#suggestion)
+34. [How do I get in the Encoders usergroup?](#encoders)
+35. [How do I gain Invitation Codes?](#invites)
+
+
+### <a name="what-is-blackpearl">Q: What is Blackpearl?</a>
 **A**: Blackpearl is much more than a forum. It's a complete platform to spend your time making friends and getting lost in whatever interests you. Aside from usual media, we have exclusive offerings like a Shop and VPN. We also give away various accounts on a regular interval.
 
-### Q: I just joined Blackpearl! What should I do now?
+### <a name="joined-blackpearl">Q: I just joined Blackpearl! What should I do now?</a>
 **A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and [FAQ](https://blackpearl.biz/faq/).
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
-### Q: What to write for my introduction?
+### <a name="introduction">Q: What to write for my introduction?</a>
 **A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
 You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
 The system was supposed to filter out the trolls, but, honestly, if you write something good, people would be happy and friendly with you!
 
-### Q: What is pearl?
-**A**: Pearl is the currency we use to facilitate transaction in our forum. There are various ways to earn pearls.
-
-### Q: How do I earn pearls?
-**A**: You can earn pearls in 3 ways:
+### <a name="pearl">Q: What are pearls and how do I earn them?</a>
+**A**: Pearl is the currency we use to facilitate transaction in our forum.
+You can earn pearls in 3 ways:
 1) Fill user requests from various subsections.
 2) Sell something in the pearls only section or provide a service. You can see the [Black Market Shop](https://blackpearl.biz/threads/8103/) for an inspiration.
 3) Post items in the forum (Note: You can not share links from other forums). You must mirror it yourself and share it. The reward system is the following:
@@ -83,7 +120,7 @@ The system was supposed to filter out the trolls, but, honestly, if you write so
 
 Post quality is judged by the amount of effort you put into the creation of your thread. However, verbosity just for the sake of it is heavily discouraged and might require you to re-edit your post.
 
-### Q: What are the user groups, their privileges, and how to get promoted/demoted?
+### <a name="usergroups">Q: What are the user groups, their privileges, and how to get promoted/demoted?</a>
 **A**: User groups are what separate the forum's members by ranking or privileges and consists of:
 
 - ![NOOB](https://i.imgur.com/FOsw2e9.png)
@@ -177,26 +214,24 @@ Post quality is judged by the amount of effort you put into the creation of your
   
 Conclusion: Being active, sharing stuff, and getting recognized is the first steps to get/stay user group promotion.
 
-### Q: How do I get myself banned?
+### <a name="banned">Q: How do I get myself banned?</a>
 **A**: This happens if you break any of the [forum rules](https://blackpearl.biz/rules/).
 
-### Q: I just created a thread/post but can't see it posted.
-**A**: If you are a Registered User or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
-
-### Q: I just made a post, but it's not showing up anymore. What's happening?
+### <a name="approval">Q: I just made a post, but it's not showing up anymore or it's not posted? Whats happening?</a>
 **A**: It's most likely either in the Approval Queue or already deleted due to breaking the rules or for having an improper format/missing stuff.
 The current system does not inform the post creator about their post getting rejected. If you post something worthless, we won't even notify you in a PM.
+If you are a Registered User or lower anything you post will be waiting for approval from a Moderator. Once approved, the post will become available on the forum.
 
-### Q: How long does it take to have a post approved on the forum?
+### <a name="approval-time">Q: How long does it take to have a post approved on the forum?</a>
 **A**: There isn't a specific time range for a post to be approved. Posts will be accepted once a Moderator is available and goes through the posts that need approval. Usually, posts will not take more than 24 hours to be approved.
 
-### Q: Does approval apply to all sections?
+### <a name="approval-section">Q: Does approval apply to all sections?</a>
 **A**: If you have the Boomer tag, then only posts in the [Golden Guides](https://blackpearl.biz/forums/154/) section need approval. However, if you don't have the Boomer tag, then all your posts require approval. 
 
-### Q: My post got deleted after pending approval. Can I post it again?
+### <a name="posts-deleted">Q: My post got deleted after pending approval. Can I post it again?</a>
 **A**: Yes. Feel free to post again; however, it would be useful if you knew the reason why your post got deleted in the first place. This will allow you not to make the same mistake.
 
-### Q: Which file hosters are accepted on the forum?
+### <a name="file-hosters">Q: Which file hosters are accepted on the forum?</a>
 **A**: The only downloadable sources allowed are Direct Download Links (DDL). A main file hoster is required, and any other file hoster can be added as a mirror. The main accepted file hosts are:
 * [Google Drive](https://drive.google.com/) (Recommended)
 * [MEGA](https://mega.nz/)
@@ -205,7 +240,7 @@ The current system does not inform the post creator about their post getting rej
 * [MediaFire](https://www.mediafire.com/)
 * [ZippyShare](https://zippyshare.com/)
 
-### Q: How do I share download links?
+### <a name="download">Q: How do I share download links?</a>
 **A**: If you wish to share a Google Drive or Mega link, then put it inside a `[DOWNCLOUD]` tag, Like this : 
 `[DOWNCLOUD]GDRIVE/MEGA LINK[/DOWNCLOUD]`
 What it does is shows it in a better way.
@@ -214,78 +249,78 @@ If you wish to share a link inside the Blackpearl GSuite organization, then you 
 
 In case you want extra protection, you can use the [Blackpearl's Link Protector](https://links.blackpearl.biz/)
 
-### Q: How do I add tags in a post?
+### <a name="tags">Q: How do I add tags in a post?</a>
 **A**: While creating a thread, you can add comma-separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma-separated tags.
 
-### Q: How does one add a picture to a post? Also, what image hosters I can use?
+### <a name="pictures">Q: How does one add a picture to a post? Also, what image hosters I can use?</a>
 **A**: You can do this by clicking on the [little image icon](https://uploaddeimagens.com.br/images/002/359/857/original/2019-09-19_181337.png?1568927759) at the post toolbar or using the hotkey `Ctrl+P`. If you are using [BBCode](https://blackpearl.biz/help/bb-codes/), you have to use the `[IMG]` tag. Example: `[IMG]https://hoster.com/image.png[/IMG]`.
 
 For that, you need to use an image hoster. We recommend [ImgBB](https://imgbb.com/), [imgur](https://imgur.com) or [PostImages](https://postimages.org/) but you can use any other, as long as it allows you to reach the original image link. Example: `https://hoster.com/image.png`.
 
 For Imgur, instead of copying the default link that they provide, go over the image and press the three-dot button. From there, select `Get Share Links` and copy the link that says `BBCode(Forums)`. After that, you can paste the link to your post, but be aware that it won't show image in edit mode. If you want to resize the image, then press the preview button, and the image will be loaded in both the preview and edit mode.
 
-### Q: How do I remove my post from the forum? I can't see any option.
+### <a name="post-delete">Q: How do I remove my post from the forum? I can't see any option.</a>
 **A**: First you need to click on the report button, this can be found at the bottom of the post. Then you need to give the report reason and click on the report. Alternatively, under the [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A), drop your link and ask for it to be removed. In both ways, you will have to wait until the staff process your report.
 
-### Q: I posted in the wrong section. What should I do?
+### <a name="wrong-section">Q: I posted in the wrong section. What should I do?</a>
 **A**: Contact the section's Moderators. Alternatively, you can also contact ADMINS. State your reasons, and they will shift the post to the appropriate section. The same can be done over our [Telegram channel](https://t.me/joinchat/KUVnAlQmTohLLwZEZcGv8A).
 
-### Q: Why is there no option to edit my post?
+### <a name="post-edit">Q: Why is there no option to edit my post?</a>
 **A**: If you do not have the Pirate tag, you can not edit your own posts.
 
-### Q: What can I post in the 'Pearls-Only' section?
+### <a name="pearls-only">Q: What can I post in the 'Pearls-Only' section?</a>
 **A**: You can only post original or rare uploads. 
 You can hide the content with this tag `[pearl=0]your content[/pearl]` the number denoting your desired pearl. 
 
-### Q: How do I post and solve requests?
+### <a name="requests">Q: How do I post and solve requests?</a>
 Head over to the [request section](https://blackpearl.biz/#requests) and see if you can solve any requests. You can also post requests in the appropriate section and offer pearls.
 
-### Q: Why is the like button not visible to me?
-**A**: If you are a new user, you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to the rest of the forum. You can view posts but cannot react to them unless you post your introduction.
+### <a name="like-button">Q: Why is the like button not visible to me?</a>
+**A**: If you are a new user, you need to post an [introduction](https://blackpearl.biz/intro/) to be able to get access to the rest of the forum. You can view posts but cannot react to them unless you post your introduction. If you have already done this, look to see if it also says "Insuffiencent Privileges To Reply Here" and follow the advice below.
 
-### Q: What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?
-**A**: This happens because you are in the "Registered" or "Boomers" user group and can not give likes or post replies in other members threads;
+### <a name="4k-packs">Q: What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?</a>
+**A**: This happens because you are in the "Registered" or "Boomers" user group and can not give likes or post replies in other members threads in certain sections;
 If you would like access to these sections, you have to contribute on the forum to get the Pirate tag. The Pirate tag can be purchased from the [shop](https://blackpearl.biz/shop/) for 75 pearls.
 
-### Q: I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?
+### <a name="gsuite">Q: I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?</a>
 **A**: You will soon receive credentials (mail and a temporary password) for the GSuite account in your PM from an Admin. GSuite is like any other edu/Gmail account; with unlimited storage and capability of making team drives! All you have to do is to log in to the Google account with the email and temporary password you were given and change your password.
 
-### Q: Can we buy reaction score with pearls? If no, why not?
+### <a name="reaction-scrore">Q: Can we buy reaction score with pearls? If no, why not?</a>
 **A**: No, you can not purchase reaction score with pearls as it would result with spamming in the forum.
 
-### Q: Can we purchase more than 1 Gsuite account?
+### <a name="dupe-gsuite">Q: Can we purchase more than 1 Gsuite account?</a>
 **A**: According to new rules, you can only purchase 1 Gsuite account.
 
-### Q: How do I check how many pearls I have? Who is the wealthiest user?
+### <a name="checking-pearls">Q: How do I check how many pearls I have? Who is the wealthiest user?</a>
 **A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls you have, who the wealthiest user is, and all the pearls you have won or spent.
 
-### Q: Can I donate pearls to other members (my friends), so that they can purchase something from the shop.
+### <a name="donate">Q: Can I donate pearls to other members (my friends), so that they can purchase something from the shop.</a>
 **A**: Members have misused this feature. So from now on, if any member is found to be abusing the system, both the member and the other person will be banned. You can donate if you liked their work or post. However, you should not misuse this feature. In case you want to do so, you can ask for permission from the ADMINS stating your reasons, and if they allow it, then you may proceed with the donation.
 
-### Q: How do I sell items in the shop?
+### <a name="selling-shop">Q: How do I sell items in the shop?</a>
 **A**: You need to contact the admins and let them know what you want to sell. We will help you make a post and set the price.
 
-### Q: How can I change my user name?
+### <a name="change-user">Q: How can I change my user name?</a>
 **A**: If you have a Donator tag, then you can change your user name every 24 hours. However, if you do not have a Donator tag, then you can change your user name only once every 30 days.
 
-### Q: Can I have a custom color for my user ID?
+### <a name="custom-color">Q: Can I have a custom color for my user ID?</a>
 **A**: Different colors represent different groups, so you can not have a custom color.
 
-### Q: Are alternate accounts allowed?
+### <a name="Dupes">Q: Are alternate accounts allowed?</a>
 **A**: No, alternate accounts are NOT allowed. If any were to be found, both accounts would be banned.
 
-### Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?
+### <a name="VSS">Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?</a>
 **A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
 To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to receive the password.
 
-### Q: Who should I contact for which issues?
+### <a name="issues">Q: Who should I contact for which issues?</a>
 **A**: For any Account related issues, Contact ADMINS (members whose user ID is in RED)
        For Post related issues, Contact that section's Moderators.
 
-### Q: I want to suggest some improvements. Where should I go to do that?
+### <a name="suggestion">Q: I want to suggest some improvements. Where should I go to do that?</a>
 **A**: Go to our [Suggestions & feedback](https://blackpearl.biz/forums/47/) section and start a new thread and write your suggestions.
 
-### Q: How to get in the Encoders user group?
+### <a name="encoders">Q: How do I get in the Encoders usergroup?</a>
 **A**: If you are an Encoder you can prove your identity and avail the Encoder usergroup. The process is following:
   1) Your public encoding name must match your BP username. You can have different username here after verification is done.
   2) Send a message here: https://1337x.to/user/ChoromPotro/ from your encoder profile. The subject line should be: "Encoder verification for BP"
@@ -293,7 +328,7 @@ To get the password, you need to have 500 likes on your profile. Once you have t
 
 That's it, the status will change after the verification. The whole process should take less than an hour.
 
-### Q: How do I gain Invitation Codes?
+### <a name="invites">Q: How do I gain Invitation Codes?</a>
 A: In order to create Invitation codes, you must be apart of the Boomers Usergroup or above. First click your username in the top right corner, then click "Your invitations". From there you will be able to create Invitation codes and view existing codes that were already created by you. Be aware of users you have invited as their actions are reflected upon you. If they cause trouble it can lead to both the referrer and referral being banned.
 
 
