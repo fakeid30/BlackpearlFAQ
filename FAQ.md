@@ -260,7 +260,7 @@ If you have the Boomer tag, then only posts in the [Golden Guides](https://black
 
 `[HIDEREACT=1,2,3,4,5,6][HIDEREACTSCORE=1][HIDEPOSTS=1][DAYS=1][DOWNCLOUD] Link [/DOWNCLOUD][/DAYS][/HIDEPOSTS][/HIDEREACTSCORE][/HIDEREACT]`
 
-If you wish to share a link inside the Blackpearl GSuite organization, then you MUST mention it in the post. Otherwise, you'll be warned. Posting Gdrive links under any other organization (i.e. edu) is not allowed.
+If you wish to share a link inside the Blackpearl GSuite organization, then you MUST mention it in the post. Otherwise, you'll be warned. Posting Gdrive links under any other organization (i.e. edu) is allowed as long as it has External Access granted so everyone can access the files without asking for permission. Failure to do so can lead to a warning and deletion of your post.
 
 In case you want extra protection, you can use the [Blackpearl's Link Protector](https://links.blackpearl.biz/).
 
