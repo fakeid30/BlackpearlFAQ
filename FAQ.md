@@ -42,7 +42,7 @@
 **A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and [FAQ](https://blackpearl.biz/faq/).
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
-And before posting something please be sure to read the rules and guidelines of each section and if you have any questions please contact the respective moderators of each section:
+Before posting content, please be sure to read the rules and guidelines of that section. If you have any questions, please contact the respective moderators of each section or reach out through our Telegram Channel:
 <table>
   <tr>
     <th>Name of the section</th>
@@ -76,8 +76,8 @@ And before posting something please be sure to read the rules and guidelines of 
   </tr>
   <tr>
     <td>Ebooks</td>
-    <td>https://blackpearl.biz/forums/82/</td>
-    <td>Fidelius</td>
+    <td>https://blackpearl.biz/threads/7412/</td>
+    <td>KiritoKiri</td>
   </tr>
   <tr>
     <td>Games</td>
@@ -87,7 +87,7 @@ And before posting something please be sure to read the rules and guidelines of 
   <tr>
     <td>Golden Guides</td>
     <td>https://blackpearl.biz/threads/7716/</td>
-    <td>S1ngr000</td>
+    <td>All Moderators</td>
   </tr>  
   <tr>
     <td>Lossless Music</td>
@@ -114,6 +114,11 @@ And before posting something please be sure to read the rules and guidelines of 
     <td>https://blackpearl.biz/threads/4617/</td>
     <td>S1ngr000</td>
   </tr>  
+  <tr>  
+    <td>Everything Else</td>
+    <td></td>
+    <td>Fidelius</td>
+  </tr> 
 </table>
 
 ### <a name="faq3">Q: What to write for my introduction?</a>
@@ -420,3 +425,4 @@ A: In order to create Invitation codes, you must be apart of the Boomers Usergro
 
 ### NOTE:
 If you think the FAQ is out of date, missing questions, or contains grammatical errors, help improve it [here](https://github.com/fakeid30/BlackpearlFAQ).
+
