@@ -42,6 +42,85 @@
 **A**: First of all, read the [RULES](https://blackpearl.biz/rules/) and [FAQ](https://blackpearl.biz/faq/).
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
+Before posting content, please be sure to read the rules and guidelines of that section. If you have any questions, please contact the respective moderators of each section or reach out through our Telegram Channel:
+<table>
+  <tr>
+    <th>Name of the section</th>
+    <th>Rules and Guidelines</th>
+    <th>Moderators</th>
+  </tr>
+  <tr>
+    <td>Anime</td>
+    <td>https://blackpearl.biz/threads/3261/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Applications</td>
+    <td>https://blackpearl.biz/threads/6260/</td>
+    <td>Kenway</td>
+  </tr>
+  <tr>
+    <td>AudioBook</td>
+    <td>https://blackpearl.biz/threads/7417/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Comics/Manga</td>
+    <td>https://blackpearl.biz/threads/3047/</td>
+    <td>Positively Ghost</td>
+  </tr>
+  <tr>
+    <td>Discographies</td>
+    <td>https://blackpearl.biz/threads/3227/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Ebooks</td>
+    <td>https://blackpearl.biz/threads/7412/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Games</td>
+    <td>https://blackpearl.biz/threads/3077/</td>
+    <td>Positively Ghost</td>
+  </tr>
+  <tr>
+    <td>Golden Guides</td>
+    <td>https://blackpearl.biz/threads/7716/</td>
+    <td>All Moderators</td>
+  </tr>  
+  <tr>
+    <td>Lossless Music</td>
+    <td>https://blackpearl.biz/threads/3158/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Lossy Music</td>
+    <td>https://blackpearl.biz/threads/3217/</td>
+    <td>KiritoKiri</td>
+  </tr>
+  <tr>
+    <td>Movies</td>
+    <td>https://blackpearl.biz/threads/6070/</td>
+    <td>Shix and Bilibox</td>
+  </tr>
+  <tr>
+    <td>TV Shows</td>
+    <td>https://blackpearl.biz/threads/13146/</td>
+    <td>Larry Dean and Bilibox</td>
+  </tr>
+  <tr>  
+    <td>Tutorials</td>
+    <td>https://blackpearl.biz/threads/4617/</td>
+    <td>S1ngr000</td>
+  </tr>  
+  <tr>  
+    <td>Everything Else</td>
+    <td></td>
+    <td>Fidelius</td>
+  </tr> 
+</table>
+
 ### <a name="faq3">Q: What to write for my introduction?</a>
 **A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
 You should mention where you belong to(not asking for address, only country/state/city), how you came to know about the forum, then what type content you are looking for, and if in case you have done something recognizable, or have been in some other reputed forums you can mention all that.
@@ -346,3 +425,4 @@ A: In order to create Invitation codes, you must be apart of the Boomers Usergro
 
 ### NOTE:
 If you think the FAQ is out of date, missing questions, or contains grammatical errors, help improve it [here](https://github.com/fakeid30/BlackpearlFAQ).
+
