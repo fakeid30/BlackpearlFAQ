@@ -12,23 +12,20 @@
 10. [Which file hosters are accepted on the forum?](#faq10)
 11. [How do I share download links?](#faq11)
 12. [How do I add tags in a post?](#faq12)
-13. [How does one add a picture to a post? Also, what image hosters I can use?](#faq13)
+13. [How does one add a picture to a post? Also, what image hosters can I use?](#faq13)
 14. [How can I delete my post or move it to the correct section?](#faq14)
 15. [Why is there no option to edit my post?](#faq15)
 16. [What can I post in the 'Pearls-Only' section?](#faq16)
 17. [How do I post and solve requests?](#faq17)
 18. [Why is the like button not visible to me?](#faq18)
 19. [What is the meaning of "YOU HAVE INSUFFICIENT PRIVILEGES TO REPLY HERE."?](#faq19)
-20. [I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?](#faq20)
 21. [Can we buy reaction score with pearls? If no, why not?](#faq21)
-22. [Can we purchase more than 1 Gsuite account?](#faq22)
 23. [How do I check how many pearls I have? Who is the wealthiest user?](#faq23)
 24. [Can I donate pearls to other members (my friends), so that they can purchase something from the shop.](#faq24)
 25. [How do I sell items in the shop?](#faq25)
 26. [How can I change my user name?](#faq26)
 27. [Can I have a custom color for my user ID?](#faq27)
 28. [Are alternate accounts allowed?](#faq28)
-29. [Why does the How to get free Account on Various Service section have a password?](#faq29)
 30. [Who should I contact for which issues?](#faq30)
 31. [I want to suggest some improvements. Where should I go to do that?](#faq31)
 32. [How do I get in the Encoders usergroup?](#faq32)
@@ -43,83 +40,98 @@
 Then introduce yourself [over here](https://blackpearl.biz/intro/).
 
 Before posting content, please be sure to read the rules and guidelines of that section. If you have any questions, please contact the respective moderators of each section or reach out through our Telegram Channel:
-<table>
-  <tr>
-    <th>Name of the section</th>
-    <th>Rules and Guidelines</th>
-    <th>Moderators</th>
-  </tr>
-  <tr>
-    <td>Anime</td>
-    <td>https://blackpearl.biz/threads/3261/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Applications</td>
-    <td>https://blackpearl.biz/threads/6260/</td>
-    <td>Kenway</td>
-  </tr>
-  <tr>
-    <td>AudioBook</td>
-    <td>https://blackpearl.biz/threads/7417/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Comics/Manga</td>
-    <td>https://blackpearl.biz/threads/3047/</td>
-    <td>Positively Ghost</td>
-  </tr>
-  <tr>
-    <td>Discographies</td>
-    <td>https://blackpearl.biz/threads/3227/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Ebooks</td>
-    <td>https://blackpearl.biz/threads/7412/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Games</td>
-    <td>https://blackpearl.biz/threads/3077/</td>
-    <td>Positively Ghost</td>
-  </tr>
-  <tr>
-    <td>Golden Guides</td>
-    <td>https://blackpearl.biz/threads/7716/</td>
-    <td>All Moderators</td>
-  </tr>  
-  <tr>
-    <td>Lossless Music</td>
-    <td>https://blackpearl.biz/threads/3158/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Lossy Music</td>
-    <td>https://blackpearl.biz/threads/3217/</td>
-    <td>KiritoKiri</td>
-  </tr>
-  <tr>
-    <td>Movies</td>
-    <td>https://blackpearl.biz/threads/6070/</td>
-    <td>Shix and Bilibox</td>
-  </tr>
-  <tr>
-    <td>TV Shows</td>
-    <td>https://blackpearl.biz/threads/13146/</td>
-    <td>Larry Dean and Bilibox</td>
-  </tr>
-  <tr>  
-    <td>Tutorials</td>
-    <td>https://blackpearl.biz/threads/4617/</td>
-    <td>S1ngr000</td>
-  </tr>  
-  <tr>  
-    <td>Everything Else</td>
-    <td></td>
-    <td>Fidelius</td>
-  </tr> 
-</table>
+<TABLE>
+<TR>
+<TH>Name of the section</TH>
+<TH>Rules and Guidelines</TH>
+<TH>Moderators</TH>
+</TR>
+<TR>
+<TD>Anime</TD>
+<TD><URL>https://blackpearl.biz/threads/3261/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Applications</TD>
+<TD><URL>https://blackpearl.biz/threads/6260/</URL></TD>
+<TD><USER=95>@| K E N W A Y |</USER></TD>
+</TR>
+<TR>
+<TD>AudioBook</TD>
+<TD><URL>https://blackpearl.biz/threads/7417/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Cartoons</TD>
+<TD><URL>https://blackpearl.biz/threads/13146/</URL></TD>
+<TD><USER=280>@codebreaker69</USER></TD>
+</TR>
+<TR>
+<TD>Comics/Manga</TD>
+<TD><URL>https://blackpearl.biz/threads/3047/</URL></TD>
+<TD><USER=52>@PositivelyGhost</USER></TD>
+</TR>
+<TR>
+<TD>Dead Man's Chest</TD>
+<TD><URL>https://blackpearl.biz/#goodies</URL></TD>
+<TD><USER=5642>@DaDDY_Co0L</USER></TD>
+</TR>
+<TR>
+<TD>Discographies</TD>
+<TD><URL>https://blackpearl.biz/threads/3227/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Ebooks</TD>
+<TD><URL>https://blackpearl.biz/threads/7412/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Games</TD>
+<TD><URL>https://blackpearl.biz/threads/3077/</URL></TD>
+<TD><USER=52>@PositivelyGhost</USER></TD>
+</TR>
+<TR>
+<TD>Golden Guides</TD>
+<TD><URL>https://blackpearl.biz/threads/7716/</URL></TD>
+<TD>All Moderators</TD>
+</TR>
+<TR>
+<TD>Lossless Music</TD>
+<TD><URL>https://blackpearl.biz/threads/3158/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Lossy Music</TD>
+<TD><URL>https://blackpearl.biz/threads/3217/</URL></TD>
+<TD><USER=51>@KiritoKiri</USER></TD>
+</TR>
+<TR>
+<TD>Movies</TD>
+<TD><URL>https://blackpearl.biz/threads/6085/</URL></TD>
+<TD><USER=3453>@SixtyNine</USER> & <USER=1819>@Bilibox</USER></TD>
+</TR>
+<TR>
+<TD>NSFW</TD>
+<TD><URL>https://blackpearl.biz/threads/19112/</URL></TD>
+<TD><USER=5642>@DaDDY_Co0L</USER> & <USER=95>@| K E N W A Y |</USER></TD>
+</TR>
+<TR>
+<TD>TV Shows</TD>
+<TD><URL>https://blackpearl.biz/threads/13146/</URL></TD>
+<TD><USER=1819>@Bilibox</USER></TD>
+</TR>
+<TR>
+<TD>Tutorials</TD>
+<TD><URL>https://blackpearl.biz/threads/4617/</URL></TD>
+<TD><USER=26>@S1NGR000</USER></TD>
+</TR>
+<TR>
+<TD>Everything Else</TD>
+<TD></TD>
+<TD><USER=172>@Fidelius</USER></TD>
+</TR>
+</TABLE>
 
 ### <a name="faq3">Q: What to write for my introduction?</a>
 **A**: Don't give away personal info and write about your interests; it isn't required to be related to piracy. For example, if you're interested in philosophy, mention that and people with knowledge about it will react to your post.
@@ -200,12 +212,15 @@ Post quality is judged by the amount of effort you put into the creation of your
 ### <a name="faq5">Q: What are the user groups, their privileges, and how to get promoted/demoted?</a>
 **A**: User groups are what separate the forum's members by ranking or privileges and consists of:
 
-- ![NOOB](https://i.imgur.com/FOsw2e9.png)
+- <img src="https://i.imgur.com/SZXJORd.png" width="120" height="23" />
   >Description:
   > - Can't React or Reply to any thread.
   
   > How to Get:
-  > - Demotion from the Registered user group. Users who have been registered for 30+ days that are inactive(never posted anything) and who are part of the registered usergroup will be demoted to NOOB usergroup automatically, or if you are mass leaching without sharing content back.
+  > - Users who have been registered for 30+ days that are inactive (never posted anything) or if you are mass leaching without sharing content back, will be demoted to Inactive usergroup automatically.
+  
+  > How to Remove:
+  > - Purchase from the [Shop](https://blackpearl.biz/shop/16/) for 10 Pearls
 
 - ![REGISTERED](https://i.imgur.com/39fVOFD.png)
   >Description:
@@ -339,9 +354,7 @@ If you have the Boomer tag, then only posts in the [Golden Guides](https://black
 
 `[HIDEREACT=1,2,3,4,5,6][HIDEREACTSCORE=1][HIDEPOSTS=1][DAYS=1][DOWNCLOUD] Link [/DOWNCLOUD][/DAYS][/HIDEPOSTS][/HIDEREACTSCORE][/HIDEREACT]`
 
-If you wish to share a link inside the Blackpearl GSuite organization, then you MUST mention it in the post. Otherwise, you'll be warned. Posting Gdrive links under any other organization (i.e. edu) is allowed as long as it has External Access granted so everyone can access the files without asking for permission. Failure to do so can lead to a warning and deletion of your post.
-
-In case you want extra protection, you can use the [Blackpearl's Link Protector](https://links.blackpearl.biz/).
+Posting Gdrive links under any other organization (i.e. edu) is allowed as long as it has External Access granted so everyone can access the files without asking for permission. Failure to do so can lead to a warning and deletion of your post.
 
 ### <a name="faq12">Q: How do I add tags in a post?</a>
 **A**: While creating a thread, you can add comma-separated tags in the Tags text box under the post's content. If you already created the post and want to add/edit tags, then you can click on the <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tags_font_awesome.svg/1024px-Tags_font_awesome.svg.png" alt="Tags Icon" width="25"/> under the thread's title and add/edit comma-separated tags.
@@ -373,14 +386,8 @@ Head over to the [request section](https://blackpearl.biz/#requests) and see if 
 **A**: This happens because you are in the "Registered" or "Boomers" user group and can not give likes or post replies in other members threads in certain sections;
 If you would like access to these sections, you have to contribute on the forum to get the Pirate tag. The Pirate tag can be purchased from the [shop](https://blackpearl.biz/shop/) for 75 pearls.
 
-### <a name="faq20">Q: I purchased a BlackPearl Gsuite from the shop. Can someone help me figure out how to use it?</a>
-**A**: You will soon receive credentials (mail and a temporary password) for the GSuite account in your PM from an Admin. GSuite is like any other edu/Gmail account; with unlimited storage and capability of making team drives! All you have to do is to log in to the Google account with the email and temporary password you were given and change your password.
-
 ### <a name="faq21">Q: Can we buy reaction score with pearls? If no, why not?</a>
 **A**: No, you can not purchase reaction score with pearls as it would result with spamming in the forum.
-
-### <a name="faq22">Q: Can we purchase more than 1 Gsuite account?</a>
-**A**: According to new rules, you can only purchase 1 Gsuite account.
 
 ### <a name="faq23">Q: How do I check how many pearls I have? Who is the wealthiest user?</a>
 **A**: [Clicking here](https://blackpearl.biz/pearls/) you can check how many pearls you have, who the wealthiest user is, and all the pearls you have won or spent.
@@ -399,10 +406,6 @@ If you would like access to these sections, you have to contribute on the forum 
 
 ### <a name="faq28">Q: Are alternate accounts allowed?</a>
 **A**: No, alternate accounts are NOT allowed. If any were to be found, both accounts would be banned.
-
-### <a name="faq29">Q: Why does the [How to get free Account on Various Service](https://blackpearl.biz/forums/116/) section have a password?</a>
-**A**: This is a forum with tutorials to create profiles on various services. This section is locked behind a password to avoid leechers & copyright trolls.
-To get the password, you need to have 500 likes on your profile. Once you have that, please go to this [thread](https://blackpearl.biz/threads/907/) to receive the password.
 
 ### <a name="faq30">Q: Who should I contact for which issues?</a>
 **A**: For any Account related issues, Contact ADMINS (members whose user ID is in RED)
